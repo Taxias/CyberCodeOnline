@@ -9,7 +9,7 @@
  	 	 	"eng": "Inventory"
  	 	},
  	 	"quest": {
- 	 	 	"trans": "Hledání",
+ 	 	 	"trans": "Úkoly",
  	 	 	"eng": "Quest"
  	 	},
  	 	"chat": {
@@ -32,7 +32,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"amount"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "${amount} bitcoin bude vložen do vašeho účtu gangu, nemůže to být obráceno",
+ 	 	 	 	 	"trans": "${amount} Bitcoin bude vložen do vašeho účtu Gangu, nemůže to být obráceno",
  	 	 	 	 	"eng": "${amount} bitcoin will be deposit into your gang account, this cannot be reversed"
  	 	 	 	}
  	 	 	},
@@ -43,23 +43,23 @@
  	 	 	"editMotto": {
  	 	 	 	"modal": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Prosím, zadejte své gangové motoru",
+ 	 	 	 	 	 	"trans": "Prosím, zadejte své Gangové motto",
  	 	 	 	 	 	"eng": "Please enter your gang motto"
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"button": {
- 	 	 	 	 	"trans": "Edit Gang Motto",
+ 	 	 	 	 	"trans": "Upravit motto Gangu",
  	 	 	 	 	"eng": "Edit Gang Motto"
  	 	 	 	}
  	 	 	},
  	 	 	"updateImage": {
  	 	 	 	"button": {
- 	 	 	 	 	"trans": "Aktualizovat obraz gangu",
+ 	 	 	 	 	"trans": "Aktualizovat obraz Gangu",
  	 	 	 	 	"eng": "Update Gang Image"
  	 	 	 	}
  	 	 	},
  	 	 	"level": {
- 	 	 	 	"trans": "Úroveň gangu",
+ 	 	 	 	"trans": "Úroveň Gangu",
  	 	 	 	"eng": "Gang Level"
  	 	 	},
  	 	 	"resource": {
@@ -71,22 +71,22 @@
  	 	 	 	"eng": "funding"
  	 	 	},
  	 	 	"memberCount": {
- 	 	 	 	"trans": "členové",
+ 	 	 	 	"trans": "Členové",
  	 	 	 	"eng": "members"
  	 	 	},
  	 	 	"occupationPoint": {
- 	 	 	 	"trans": "Kontrola nad shangri-la",
+ 	 	 	 	"trans": "Kontrola nad Shangri-la",
  	 	 	 	"eng": "Control over Shangri-la"
  	 	 	},
  	 	 	"nextUpkeepDate": {
  	 	 	 	"vars": [
  	 	 	 	 	"nextUpkeepDate"
  	 	 	 	],
- 	 	 	 	"trans": "Další údržba data: ${nextUpkeepDate}",
+ 	 	 	 	"trans": "Datum příští údržby: ${nextUpkeepDate}",
  	 	 	 	"eng": "Next upkeep Date: ${nextUpkeepDate}"
  	 	 	},
  	 	 	"insufficientError": {
- 	 	 	 	"trans": "kritický zdroj",
+ 	 	 	 	"trans": "Kritická chyba zdroje",
  	 	 	 	"eng": "resource critical"
  	 	 	},
  	 	 	"insufficientFound": {
@@ -99,7 +99,7 @@
  	 	 	},
  	 	 	"occupation": {
  	 	 	 	"noClan": {
- 	 	 	 	 	"trans": "Žádná gangová tato oblast neobjevila",
+ 	 	 	 	 	"trans": "Žádný Gang tuto oblast neobsadil",
  	 	 	 	 	"eng": "No gang has occupied this area yet"
  	 	 	 	}
  	 	 	},
@@ -118,7 +118,7 @@
  	 	 	 	"eng": "Deposit"
  	 	 	},
  	 	 	"depositDesc": {
- 	 	 	 	"trans": "Dát bitcoins do banky",
+ 	 	 	 	"trans": "Vložit Bitcoiny do banky",
  	 	 	 	"eng": "Put Bitcoins into bank"
  	 	 	},
  	 	 	"withdraw": {
@@ -126,11 +126,11 @@
  	 	 	 	"eng": "Withdraw"
  	 	 	},
  	 	 	"withdrawDesc": {
- 	 	 	 	"trans": "Vzít bitcoiny z banky",
+ 	 	 	 	"trans": "Vybrat Bitcoiny z banky",
  	 	 	 	"eng": "Take Bitcoins out of bank"
  	 	 	},
  	 	 	"putItemToVault": {
- 	 	 	 	"trans": "Vkladová položka",
+ 	 	 	 	"trans": "Vložit položku",
  	 	 	 	"eng": "Deposit Item"
  	 	 	},
  	 	 	"putItemToVaultDesc": {
@@ -138,11 +138,11 @@
  	 	 	 	"eng": "Put items into your vault"
  	 	 	},
  	 	 	"takeItemFromVault": {
- 	 	 	 	"trans": "Vybrat položku",
+ 	 	 	 	"trans": "Vzít položku",
  	 	 	 	"eng": "Withdraw Item"
  	 	 	},
  	 	 	"takeItemFromVaultDesc": {
- 	 	 	 	"trans": "Vezměte si položky z vaší klenby",
+ 	 	 	 	"trans": "Vybrat věci z trezoru",
  	 	 	 	"eng": "Take items out from your vault"
  	 	 	},
  	 	 	"upgradeSlot": {
@@ -165,20 +165,20 @@
  	 	 	 	 	"eng": "How many would you like to put in the vault?"
  	 	 	 	},
  	 	 	 	"selectWithdrawItem": {
- 	 	 	 	 	"trans": "Kolik byste chtěli vystoupit z banky?",
+ 	 	 	 	 	"trans": "Kolik byste chtěli vybrat z banky?",
  	 	 	 	 	"eng": "How many would you like to withdraw from the bank?"
  	 	 	 	},
  	 	 	 	"selectDeposit": {
- 	 	 	 	 	"trans": "Kolik byste chtěli vklad?",
+ 	 	 	 	 	"trans": "Kolik byste chtěli vložit do banky?",
  	 	 	 	 	"eng": "How much would you like to deposit?"
  	 	 	 	},
  	 	 	 	"selectWithdraw": {
- 	 	 	 	 	"trans": "Kolik byste chtěli stáhnout?",
+ 	 	 	 	 	"trans": "Kolik byste chtěli vybrat?",
  	 	 	 	 	"eng": "How much would you like to withdraw?"
  	 	 	 	}
  	 	 	},
  	 	 	"noBalance": {
- 	 	 	 	"trans": "Nemůžete odstoupit, když nemáte rovnováhu.",
+ 	 	 	 	"trans": "Nemůžete vybrat, nemáte na účtě dostatek.",
  	 	 	 	"eng": "You can't withdraw when you have no balance."
  	 	 	}
  	 	},
@@ -210,7 +210,7 @@
  	 	 	 	"eng": "You found an old locked safe box, there seems like a post-it with some text written on it."
  	 	 	},
  	 	 	"title": {
- 	 	 	 	"trans": "PIN kód potřebný k odemknutí",
+ 	 	 	 	"trans": "K otevření je potřeba kód PIN.",
  	 	 	 	"eng": "Pin code required to unlock"
  	 	 	},
  	 	 	"inputLabel": {
@@ -224,11 +224,11 @@
  	 	},
  	 	"chat": {
  	 	 	"reconnecting": {
- 	 	 	 	"trans": "Reestabling Connection",
+ 	 	 	 	"trans": "Navazuji spojení",
  	 	 	 	"eng": "Reestablishing connection"
  	 	 	},
  	 	 	"spamBlock": {
- 	 	 	 	"trans": "Prosím, neposílejte nesmyslnou zprávu, spamy budou ztlumeny.",
+ 	 	 	 	"trans": "Prosím, neposílejte nesmyslné zprávy, spamy budou ztlumeny.",
  	 	 	 	"eng": "Please do not send meaningless message, spams will be muted."
  	 	 	},
  	 	 	"repeatBlock": {
@@ -243,19 +243,19 @@
  	 	 	 	"vars": [
  	 	 	 	 	"minLevel"
  	 	 	 	],
- 	 	 	 	"trans": "Musíte být alespoň úrovni ${minLevel} posílat zprávy chatu",
+ 	 	 	 	"trans": "Musíte být alespoň na úrovni ${minLevel} posílání zpráv do chatu",
  	 	 	 	"eng": "You need to be at least level ${minLevel} to send chat messages"
  	 	 	},
  	 	 	"chat": {
- 	 	 	 	"trans": "povídat si",
+ 	 	 	 	"trans": "Chat",
  	 	 	 	"eng": "chat"
  	 	 	},
  	 	 	"gang": {
- 	 	 	 	"trans": "gang",
+ 	 	 	 	"trans": "Gang",
  	 	 	 	"eng": "gang"
  	 	 	},
  	 	 	"mail": {
- 	 	 	 	"trans": "pošta",
+ 	 	 	 	"trans": "Pošta",
  	 	 	 	"eng": "mail"
  	 	 	},
  	 	 	"noti": {
@@ -281,11 +281,11 @@
  	 	 	 	"eng": "Flatlined"
  	 	 	},
  	 	 	"subTitleSmall": {
- 	 	 	 	"trans": "Kritická chyba: odpojený neurální odkaz",
+ 	 	 	 	"trans": "Kritická chyba: Neurální spojení ztraceno",
  	 	 	 	"eng": "Critical Error: Neural Link Disconnected"
  	 	 	},
  	 	 	"progressBarTitle": {
- 	 	 	 	"trans": "Znovu navázání spojení",
+ 	 	 	 	"trans": "Znovunavazování spojení",
  	 	 	 	"eng": "Re-establishing connection"
  	 	 	}
  	 	},
@@ -298,12 +298,12 @@
  	 	"equipment": {
  	 	 	"lowPrintLevelTip": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Nízký tisk",
+ 	 	 	 	 	"trans": "Nízká úroveň Tisku",
  	 	 	 	 	"eng": "Low Printing Rank"
  	 	 	 	}
  	 	 	},
  	 	 	"lowPrintLevelTip2": {
- 	 	 	 	"trans": "Zvyšte svůj tisk, abyste vytvořili výkonnější zbraně tisku více cache",
+ 	 	 	 	"trans": "Zvyšte svou úroveň Tisku, abyste vytvořili silnější zbraně",
  	 	 	 	"eng": "Increase your Printing Rank to create more powerful weapons by printing more caches"
  	 	 	}
  	 	},
@@ -316,7 +316,7 @@
  	 	 	},
  	 	 	"bindModal": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Vyberte použitelnou položku, která se bude vázat na rychlý slot",
+ 	 	 	 	 	"trans": "Vyberte použitelnou položku, kterou umístíte do rychlého slotu",
  	 	 	 	 	"eng": "Select a usable item to bind to a quick slot"
  	 	 	 	}
  	 	 	}
@@ -327,7 +327,7 @@
  	 	 	 	"eng": "All Apps"
  	 	 	},
  	 	 	"dungeonList": {
- 	 	 	 	"trans": "Seznam Dungeon",
+ 	 	 	 	"trans": "Seznam Dungeonů",
  	 	 	 	"eng": "Dungeon List"
  	 	 	},
  	 	 	"links": {
@@ -335,7 +335,7 @@
  	 	 	 	"eng": "links"
  	 	 	},
  	 	 	"premiumShop": {
- 	 	 	 	"trans": "Premium Shop",
+ 	 	 	 	"trans": "Prémiový obchod",
  	 	 	 	"eng": "Premium Shop"
  	 	 	},
  	 	 	"friendList": {
@@ -362,11 +362,11 @@
  	 	 	 	 	 	"timeSkipMinutes",
  	 	 	 	 	 	"timeSkipCost"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Global Skip (${timeSkipMinutes} min, náklady ${timeSkipCost} jednotky)",
+ 	 	 	 	 	"trans": "Kolektivní urychlení (${timeSkipMinutes} min, náklady ${timeSkipCost} Jednotek)",
  	 	 	 	 	"eng": "Global Skip (${timeSkipMinutes} Min, Cost ${timeSkipCost} Units)"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Global Skip vám umožní přeskočit čekací dobu AFK a dokončit ji okamžitě. \n     Tento efekt bude aplikován na všechny hráče, kteří provádějí AFK úkol",
+ 	 	 	 	 	"trans": "Kolektivní urychlení vám umožní přeskočit čekací dobu AFK a dokončit ji okamžitě. \n     Tento efekt bude aplikován na všechny hráče, kteří provádějí AFK úkol",
  	 	 	 	 	"eng": "Global Skip allow you to skip the AFK waiting time, and finish it instantly.\n    this effect will be applied to all player performing AFK task"
  	 	 	 	}
  	 	 	},
@@ -375,7 +375,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"itemSkipMinutes"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Volný čas Skip (${itemSkipMinutes} min)",
+ 	 	 	 	 	"trans": "Zdarma přeskočit (${itemSkipMinutes} min)",
  	 	 	 	 	"eng": "Free time skip (${itemSkipMinutes} Min)"
  	 	 	 	},
  	 	 	 	"description": {
@@ -383,41 +383,41 @@
  	 	 	 	 	 	"timeSkipItemName",
  	 	 	 	 	 	"itemSkipMinutes"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Použijte jeden z vašich ${timeSkipItemName} přeskočit ${itemSkipMinutes} minut",
+ 	 	 	 	 	"trans": "Použít jeden ${timeSkipItemName} pro přeskočení ${itemSkipMinutes} minut",
  	 	 	 	 	"eng": "Use one of your ${timeSkipItemName} to skip ${itemSkipMinutes} minutes"
  	 	 	 	}
  	 	 	},
  	 	 	"confirmModal": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Potvrdit použití SKIP?",
+ 	 	 	 	 	"trans": "Potvrdit použití?",
  	 	 	 	 	"eng": "Confirm use skip?"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "Global Skip přeskočí čekací doba pro všechny hráče, kteří vykonávají AFK Úlas",
+ 	 	 	 	 	"trans": "Kolektivní urychlení přeskočí čekací dobu pro všechny hráče, kteří vykonávají AFK úkol",
  	 	 	 	 	"eng": "Global Skip will skip the waiting time for all players performing AFK task"
  	 	 	 	}
  	 	 	},
  	 	 	"inProgressBox": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Globální přeskočení probíhající",
+ 	 	 	 	 	"trans": "Kolektivní urychlení v procesu",
  	 	 	 	 	"eng": "Global Skip in progress"
  	 	 	 	},
  	 	 	 	"subtitle": {
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"skippingPlayerCount"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Zrychlení ${skippingPlayerCount} Uživatelé.",
+ 	 	 	 	 	"trans": "Urychlených uživatelů ${skippingPlayerCount}",
  	 	 	 	 	"eng": "Accelerating ${skippingPlayerCount} users.."
  	 	 	 	}
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Global Skip vám umožní přeskočit čekací dobu AFK a dokončit ji okamžitě. \n     Tento efekt bude aplikován na všechny hráče, kteří vykonávají AFK úkol",
+ 	 	 	 	"trans": "Kolektivní urychlení vám umožní přeskočit čekací dobu AFK a dokončit ji okamžitě. \n     Tento efekt bude aplikován na všechny hráče, kteří vykonávají AFK úkol",
  	 	 	 	"eng": "Global Skip allow you to skip the AFK waiting time, and finish it instantly.\n    this effect will be applied to all players performing an AFK task"
  	 	 	}
  	 	},
  	 	"list": {
  	 	 	"longPressToMultiSelect": {
- 	 	 	 	"trans": "Dlouhý Stiskněte pro multi-select",
+ 	 	 	 	"trans": "Dlouze podržte pro multi-select",
  	 	 	 	"eng": "Long press to multi-select"
  	 	 	}
  	 	},
@@ -427,17 +427,17 @@
  	 	 	 	"eng": "items"
  	 	 	},
  	 	 	"secretKeys": {
- 	 	 	 	"trans": "tajné klíče",
+ 	 	 	 	"trans": "Tajné klíče",
  	 	 	 	"eng": "secret keys"
  	 	 	},
  	 	 	"autoScrap": {
  	 	 	 	"button": {
- 	 	 	 	 	"trans": "Sortiment",
+ 	 	 	 	 	"trans": "Automaticky sešrotovat",
  	 	 	 	 	"eng": "Auto Scrap"
  	 	 	 	}
  	 	 	},
  	 	 	"equipped": {
- 	 	 	 	"trans": "Vybavený",
+ 	 	 	 	"trans": "Vybaveno",
  	 	 	 	"eng": "Equipped"
  	 	 	},
  	 	 	"inventory": {
@@ -445,7 +445,7 @@
  	 	 	 	"eng": "Inventory"
  	 	 	},
  	 	 	"itemInbox": {
- 	 	 	 	"trans": "Položka Doručená pošta",
+ 	 	 	 	"trans": "Doručené položky",
  	 	 	 	"eng": "Item Inbox"
  	 	 	},
  	 	 	"crafting": {
@@ -456,27 +456,27 @@
  	 	"communityItemLore": {
  	 	 	"noLoreButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Vytvořit Lore",
+ 	 	 	 	 	"trans": "Vytvořit Příběh",
  	 	 	 	 	"eng": "Create Lore"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Pro tuto položku ještě neexistuje žádná komunitní tradice, buďte první, kdo pro něj vytvoří.",
+ 	 	 	 	 	"trans": "Komunita k této položce ještě nevytvořila žadný příběh, buďte první, kdo pro nějaký vytvoří.",
  	 	 	 	 	"eng": "There is no community lore for this item yet, be the first to create one for it."
  	 	 	 	}
  	 	 	},
  	 	 	"openButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Společenství Lore",
+ 	 	 	 	 	"trans": "Příběh od komunity",
  	 	 	 	 	"eng": "Community Lore"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Otevřete komunitní tradici pro tuto položku",
+ 	 	 	 	 	"trans": "Otevřít Komunitní příběh pro tuto položku",
  	 	 	 	 	"eng": "Open the community lore for this item"
  	 	 	 	}
  	 	 	},
  	 	 	"editButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "upravit tuto lore",
+ 	 	 	 	 	"trans": "Upravit příběh k této položce",
  	 	 	 	 	"eng": "edit this lore"
  	 	 	 	},
  	 	 	 	"description": {
@@ -488,7 +488,7 @@
  	 	"itemDisplay": {
  	 	 	"broken": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Nefunkční",
+ 	 	 	 	 	"trans": "Rozbitý",
  	 	 	 	 	"eng": "Malfunctioned"
  	 	 	 	},
  	 	 	 	"subtitle": {
@@ -496,7 +496,7 @@
  	 	 	 	 	"eng": "Extensive repair required"
  	 	 	 	},
  	 	 	 	"instruction": {
- 	 	 	 	 	"trans": "Tato položka je rozbitá, přiveďte ji do zbraně Smith pro opravu",
+ 	 	 	 	 	"trans": "Tato položka je rozbitá, doneste ji Smithovi aby ji mohl opravit",
  	 	 	 	 	"eng": "This item is broken, bring it to Weapon Smith for repair"
  	 	 	 	}
  	 	 	},
@@ -505,7 +505,7 @@
  	 	 	 	"eng": "Upgrades"
  	 	 	},
  	 	 	"areaEffect": {
- 	 	 	 	"trans": "[AOE] Oblast efektu, efekt této položky použije spojence v boji s vámi.",
+ 	 	 	 	"trans": "[AOE] Oblast efektu, efekt této položky ovlivní spojence kteří jsou v boji s vámi.",
  	 	 	 	"eng": "[AOE] Area of Effect, the effect of this item will apply allies in combat with you."
  	 	 	},
  	 	 	"equip": {
@@ -513,11 +513,11 @@
  	 	 	 	"eng": "Equip"
  	 	 	},
  	 	 	"unequip": {
- 	 	 	 	"trans": "Sjednocený",
+ 	 	 	 	"trans": "Sundat",
  	 	 	 	"eng": "Unequip"
  	 	 	},
  	 	 	"use": {
- 	 	 	 	"trans": "Použití",
+ 	 	 	 	"trans": "Použít",
  	 	 	 	"eng": "Use"
  	 	 	},
  	 	 	"unlock": {
@@ -525,15 +525,15 @@
  	 	 	 	"eng": "Unlock"
  	 	 	},
  	 	 	"lock": {
- 	 	 	 	"trans": "Zámek",
+ 	 	 	 	"trans": "Zamčené",
  	 	 	 	"eng": "Lock"
  	 	 	},
  	 	 	"lockDescription": {
- 	 	 	 	"trans": "Zabraňuje náhodnému prodeji nebo zničení",
+ 	 	 	 	"trans": "Zabránit náhodnému prodeji nebo zničení",
  	 	 	 	"eng": "Prevents accidental selling or destroying"
  	 	 	},
  	 	 	"attachableUpgradesTitle": {
- 	 	 	 	"trans": "Připojitelné upgrady",
+ 	 	 	 	"trans": "Připojitelná vylepšení",
  	 	 	 	"eng": "Attachable Upgrades"
  	 	 	}
  	 	},
@@ -547,20 +547,20 @@
  	 	 	 	"eng": "You don't have any secret keys"
  	 	 	},
  	 	 	"noKeysSubtitle": {
- 	 	 	 	"trans": "Můžete získat tajné klíče od dungeonů",
+ 	 	 	 	"trans": "Tajné klíče můžete získat z dungenů",
  	 	 	 	"eng": "You can obtain secret keys from Dungeons"
  	 	 	}
  	 	},
  	 	"backToPreviusLoc": {
  	 	 	"longPressBackToCity": {
- 	 	 	 	"trans": "Dlouhý tisk se vrátíte do města",
+ 	 	 	 	"trans": "Dlouze podržte pro návrat do města",
  	 	 	 	"eng": "Long press to go back to city"
  	 	 	}
  	 	},
  	 	"machineCrafting": {
  	 	 	"titleBox": {
  	 	 	 	"tile": {
- 	 	 	 	 	"trans": "Systém Idle",
+ 	 	 	 	 	"trans": "Systém je nečinný",
  	 	 	 	 	"eng": "system idle"
  	 	 	 	},
  	 	 	 	"subtitle": {
@@ -581,21 +581,21 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"timeStr"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "To bude trvat ${timeStr}",
+ 	 	 	 	 	"trans": "Potrvá to ${timeStr}",
  	 	 	 	 	"eng": "This will take ${timeStr}"
  	 	 	 	}
  	 	 	}
  	 	},
  	 	"map": {
  	 	 	"interactable": {
- 	 	 	 	"trans": "Spolupracující",
+ 	 	 	 	"trans": "Interaktivní",
  	 	 	 	"eng": "Interactable"
  	 	 	},
  	 	 	"hiddenNpcTip": {
  	 	 	 	"vars": [
  	 	 	 	 	"hiddenCount"
  	 	 	 	],
- 	 	 	 	"trans": "${hiddenCount} Další interakce lze odemknout na tomto místě, úroveň až odemknout je.",
+ 	 	 	 	"trans": "${hiddenCount} dalších interakcí lze odemknout v této lokaci zvýšením úrovně.",
  	 	 	 	"eng": "${hiddenCount} more interactables can be unlocked at this location, level up to unlock them."
  	 	 	},
  	 	 	"travel": {
@@ -605,14 +605,14 @@
  	 	},
  	 	"npc": {
  	 	 	"notUnlocked": {
- 	 	 	 	"trans": "Toto není ještě odemčeno, zkuste vyrovnávat svou postavu",
+ 	 	 	 	"trans": "Toto ještě nemáte odemčené, zkuste zvýšit úroveň své postavy",
  	 	 	 	"eng": "This is not unlocked yet, try leveling up your character"
  	 	 	},
  	 	 	"repairItems": {
  	 	 	 	"vars": [
  	 	 	 	 	"repairFee"
  	 	 	 	],
- 	 	 	 	"trans": "Opravte všechny položky pro (${repairFee} bitcoin)",
+ 	 	 	 	"trans": "Opravit všechny položky za (${repairFee} Bitcoin)",
  	 	 	 	"eng": " Repair all items for (${repairFee} Bitcoin)"
  	 	 	}
  	 	},
@@ -625,7 +625,7 @@
  	 	 	 	"eng": "Skipping ${skipCount}"
  	 	 	},
  	 	 	"skipAvailable": {
- 	 	 	 	"trans": "Skip k dispozici",
+ 	 	 	 	"trans": "Přeskočení k dispozici",
  	 	 	 	"eng": "Skip Available"
  	 	 	}
  	 	},
@@ -639,11 +639,11 @@
  	 	 	 	"eng": "title"
  	 	 	},
  	 	 	"gearScore": {
- 	 	 	 	"trans": "Skóre zařízení",
+ 	 	 	 	"trans": "Skóre vybavení",
  	 	 	 	"eng": "Gear Score"
  	 	 	},
  	 	 	"location": {
- 	 	 	 	"trans": "umístění",
+ 	 	 	 	"trans": "Nachází se v",
  	 	 	 	"eng": "location"
  	 	 	},
  	 	 	"onlineStatus": {
@@ -651,11 +651,11 @@
  	 	 	 	"eng": "system link"
  	 	 	},
  	 	 	"streetCred": {
- 	 	 	 	"trans": "Ulice věřit",
+ 	 	 	 	"trans": "Pouliční zásluha",
  	 	 	 	"eng": "Street Cred"
  	 	 	},
  	 	 	"status": {
- 	 	 	 	"trans": "Postavení",
+ 	 	 	 	"trans": "Stav",
  	 	 	 	"eng": "Status"
  	 	 	},
  	 	 	"bio": {
@@ -680,7 +680,7 @@
  	 	 	 	 	"eng": "Kick"
  	 	 	 	},
  	 	 	 	"transferLeadership": {
- 	 	 	 	 	"trans": "Přenos vedení",
+ 	 	 	 	 	"trans": "Předat vedení",
  	 	 	 	 	"eng": "Transfer Leadership"
  	 	 	 	},
  	 	 	 	"editPermissions": {
@@ -702,7 +702,7 @@
  	 	 	 	 	"eng": "Send Gift"
  	 	 	 	},
  	 	 	 	"inviteToGang": {
- 	 	 	 	 	"trans": "Pozvěte na gang",
+ 	 	 	 	 	"trans": "Pozvat do Gangu",
  	 	 	 	 	"eng": "Invite to Gang"
  	 	 	 	},
  	 	 	 	"addToFriend": {
@@ -719,7 +719,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"equipped": {
- 	 	 	 	"trans": "Vybavený",
+ 	 	 	 	"trans": "Vybaveno",
  	 	 	 	"eng": "Equipped"
  	 	 	},
  	 	 	"inventory": {
@@ -727,11 +727,11 @@
  	 	 	 	"eng": "Inventory"
  	 	 	},
  	 	 	"changePicture": {
- 	 	 	 	"trans": "Vlastní profilový obrázek je exkluzivní funkce dárce",
+ 	 	 	 	"trans": "Vlastní profilový obrázek je exkluzivní funkce pro předplatitele",
  	 	 	 	"eng": "Custom profile image is a donator exclusive feature"
  	 	 	},
  	 	 	"changePictureDescription": {
- 	 	 	 	"trans": "Chcete-li poskytnout vám nejlépe žádné zkušenosti s pay-to-win, je nutné, aby všechny placené rysy jsou kosmetické jako profilové snímky a chatové rámečky, \n                                                 nebo globální nadšence, které těží všem ve hře :) \n                                                 Doufám, že se vám líbí žádné zkušenosti s pay-to-win!",
+ 	 	 	 	"trans": "Pro poskytnutí nejlepšího zažítku bez Pay-to-Win, je všechen placený obsah pouze kosmetický jako například profilové obrázky a rámečky chatu \n                                                 nebo globální nadšence, které těží všem ve hře :) \n                                                 Doufám, že se vám líbí žádné zkušenosti s pay-to-win!",
  	 	 	 	"eng": "To provide the best No Pay-to-Win experience to you, it is necessary that all paid features are cosmetic like profile images & chat frames, \n                                                or global buffs that benefits everyone in game :)\n                                                Hope you enjoy the No Pay-to-Win experience!"
  	 	 	},
  	 	 	"confirm": {
@@ -741,13 +741,13 @@
  	 	},
  	 	"setBio": {
  	 	 	"title": {
- 	 	 	 	"trans": "Zadejte svůj bio",
+ 	 	 	 	"trans": "Zadejte svoje bio",
  	 	 	 	"eng": "Enter your bio"
  	 	 	}
  	 	},
  	 	"market": {
  	 	 	"lookAround": {
- 	 	 	 	"trans": "Rozhlédni se",
+ 	 	 	 	"trans": "Rozhlédnout se",
  	 	 	 	"eng": "Look around"
  	 	 	},
  	 	 	"myStall": {
@@ -765,7 +765,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"nextSlotSize"
  	 	 	 	],
- 	 	 	 	"trans": "Strávit Bitcoins zvýšit počet položek, které můžete dát do svého stánku současně",
+ 	 	 	 	"trans": "Za Bitcony zvýšit počet slotů pro položky vystavené ve Stánku",
  	 	 	 	"eng": "Spend Bitcoins to increase how many items you can put in your stall at the same time"
  	 	 	},
  	 	 	"cantEnterError": {
@@ -774,7 +774,7 @@
  	 	 	},
  	 	 	"stall": {
  	 	 	 	"sellItemButton": {
- 	 	 	 	 	"trans": "Položka na prodej",
+ 	 	 	 	 	"trans": "Přidat položku k prodeji",
  	 	 	 	 	"eng": "Put Item On Sale"
  	 	 	 	},
  	 	 	 	"selectItemForSale": {
@@ -785,7 +785,7 @@
  	 	},
  	 	"playerStatus": {
  	 	 	"occupiedBy": {
- 	 	 	 	"trans": "Obsazený",
+ 	 	 	 	"trans": "Obsazené",
  	 	 	 	"eng": "Occupied by"
  	 	 	}
  	 	},
@@ -809,29 +809,29 @@
  	 	 	 	"eng": "Are you sure you want to abort?"
  	 	 	},
  	 	 	"abortWarning": {
- 	 	 	 	"trans": "Tím, že zrušíte to, že jste získali odměnu a použitý materiál vyhrál",
+ 	 	 	 	"trans": "Zrušením ztratíte použitý materiál a nezískáte žádnou odměnu",
  	 	 	 	"eng": "By aborting this you won\\'t receive any reward and the material used won\\'t be returned"
  	 	 	}
  	 	},
  	 	"quest": {
  	 	 	"globalQuest": {
  	 	 	 	"progressTitle": {
- 	 	 	 	 	"trans": "Pořadí SL-DATA Pevnost",
+ 	 	 	 	 	"trans": "Prolomit Firewall SL-DATA",
  	 	 	 	 	"eng": "SL-Data Fortress Breach"
  	 	 	 	},
  	 	 	 	"infoBox": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Probíhá kyberprostor",
+ 	 	 	 	 	 	"trans": "Probíhá hackování kyberprostoru",
  	 	 	 	 	 	"eng": "Cyberspace hacking in progress"
  	 	 	 	 	},
  	 	 	 	 	"subtitle": {
- 	 	 	 	 	 	"trans": "Spojte síly s jinými NETRunners k porušení pevnosti SL-DATE k poskytnutí všech hráčů s buffem",
+ 	 	 	 	 	 	"trans": "Spojit síly s dalšími NETRunners k prolomení Firewallu SL-DATA k poskytnutí buffu všem hráčům",
  	 	 	 	 	 	"eng": "Join forces with other Netrunners to breach the SL-Data Fortress to grant all players with buff"
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"completeBox": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Operace porušení",
+ 	 	 	 	 	 	"trans": "Prolomení Firewallu dokončeno",
  	 	 	 	 	 	"eng": "Breach operation completed"
  	 	 	 	 	},
  	 	 	 	 	"subtitle": {
@@ -843,11 +843,11 @@
  	 	},
  	 	"mobileQuestPage": {
  	 	 	"rewards": {
- 	 	 	 	"trans": "odměny",
+ 	 	 	 	"trans": "Odměny",
  	 	 	 	"eng": "rewards"
  	 	 	},
  	 	 	"rewardAvailable": {
- 	 	 	 	"trans": "Klikněte pro sběr odměny",
+ 	 	 	 	"trans": "Kliknutím seberte odměnu",
  	 	 	 	"eng": "Click to collect reward"
  	 	 	},
  	 	 	"viewDetails": {
@@ -873,7 +873,7 @@
  	 	 	 	"eng": "This language pack is open source and contributed by our players, the text may not be fully translated and could contain mistakes. please feel free to edit and contribute from our Github page"
  	 	 	},
  	 	 	"langGithub": {
- 	 	 	 	"trans": "Pomoc s překlady hry",
+ 	 	 	 	"trans": "Pomoc s překladem hry",
  	 	 	 	"eng": "Help with translating the game"
  	 	 	},
  	 	 	"language": {
@@ -890,11 +890,11 @@
  	 	 	},
  	 	 	"disableAttackBar": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Zakázat načasování napadení",
+ 	 	 	 	 	"trans": "Zakázat načasování útoků",
  	 	 	 	 	"eng": "Disable Attack Timing Bar"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Zakázání načasovacího panelu útoku nebude udělit další poškození",
+ 	 	 	 	 	"trans": "Zakázání načasování útoků nebude udělovat extra poškození",
  	 	 	 	 	"eng": "Disabling attack timing bar will not grant extra damage"
  	 	 	 	}
  	 	 	},
@@ -918,20 +918,20 @@
  	 	 	},
  	 	 	"disableChatEffect": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Zakázat efekt chatu",
+ 	 	 	 	 	"trans": "Zakázat efekty chatu",
  	 	 	 	 	"eng": "Disable Chat Effect"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Zakázat, pokud Chat Karta Lags během přeskoků",
+ 	 	 	 	 	"trans": "Zakázat, pokud se záložka chatu laguje během přeskakování",
  	 	 	 	 	"eng": "Disable if chat tab lags during skips"
  	 	 	 	}
  	 	 	},
  	 	 	"receiveClanNotification": {
- 	 	 	 	"trans": "Obdržet oznámení o gangu",
+ 	 	 	 	"trans": "Obdržet oznámení o Gangu",
  	 	 	 	"eng": "Receive Gang Notification"
  	 	 	},
  	 	 	"receiveGlobalNotification": {
- 	 	 	 	"trans": "Přijměte globální oznámení o buff",
+ 	 	 	 	"trans": "Obdrzět oznámení o Klektivním buffu",
  	 	 	 	"eng": "Receive Global Buff Notification"
  	 	 	},
  	 	 	"forceMobileMode": {
@@ -939,11 +939,11 @@
  	 	 	 	"eng": "Enable Cyberpunk Mode"
  	 	 	},
  	 	 	"dangerZone": {
- 	 	 	 	"trans": "Nebezpečí",
+ 	 	 	 	"trans": "Nebezpečná zóna",
  	 	 	 	"eng": "Danger Zone"
  	 	 	},
  	 	 	"restartRequired": {
- 	 	 	 	"trans": "Aplikace se po Save restartuje",
+ 	 	 	 	"trans": "Aplikace se po uložení sama restartuje",
  	 	 	 	"eng": "App will self restart after save"
  	 	 	},
  	 	 	"save": {
@@ -960,10 +960,10 @@
  	 	"itemDetails": {
  	 	 	"factoryReset": {
  	 	 	 	"confirmation": {
- 	 	 	 	 	"trans": "To bude resetovat všechny kalibrace na vaší položce. Bude to také obchodovat znovu. \n       Opravdu chcete pokračovat?",
+ 	 	 	 	 	"trans": "Provedení této akce obnoví všechna vylepšení na této položce. Položka bude znovu prodejná. \n       Opravdu chcete pokračovat?",
  	 	 	 	 	"eng": "Doing this will reset all calibration on your item. It will also make it tradable again. \n      Are you sure you want to proceed?"
  	 	 	 	},
- 	 	 	 	"trans": "Tovární reset",
+ 	 	 	 	"trans": "Tovární nastavení",
  	 	 	 	"eng": "Factory Reset"
  	 	 	}
  	 	},
@@ -975,42 +975,42 @@
  	 	},
  	 	"dungeon": {
  	 	 	"public": {
- 	 	 	 	"trans": "Veřejný dungeon",
+ 	 	 	 	"trans": "Veřejný Dungeon",
  	 	 	 	"eng": "Public dungeon"
  	 	 	},
  	 	 	"password": {
- 	 	 	 	"trans": "Chráněné heslem Dungeon",
+ 	 	 	 	"trans": "Heslem chráněný Dungeon",
  	 	 	 	"eng": "Password protected dungeon"
  	 	 	},
  	 	 	"enterDungeon": {
- 	 	 	 	"trans": "Zadejte Dungeon",
+ 	 	 	 	"trans": "Vstoupit do Dungeonu",
  	 	 	 	"eng": "Enter Dungeon"
  	 	 	},
  	 	 	"listButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Dungeons",
+ 	 	 	 	 	"trans": "Dungeony",
  	 	 	 	 	"eng": "Dungeons"
  	 	 	 	},
  	 	 	 	"des": {
- 	 	 	 	 	"trans": "V dungeonech nebudete léčit po každém boji a nepřátelé jsou silnější, ale existuje více exp a kořistů",
+ 	 	 	 	 	"trans": "V Dungeonech se nebudete léčit po každém boji a nepřátelé jsou silnější, ale získáte více exp a kořistů",
  	 	 	 	 	"eng": "In dungeons, you will not heal after each fight, and enemies are stronger, but there are more exp and loots"
  	 	 	 	}
  	 	 	},
  	 	 	"underMaintenance": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Dungeony pod údržbou",
+ 	 	 	 	 	"trans": "Dungeony prochází údržbou",
  	 	 	 	 	"eng": "Dungeons Under Maintenance"
  	 	 	 	},
  	 	 	 	"des": {
- 	 	 	 	 	"trans": "Dungeons jsou v současné době pod údržbou, Dexter pracuje na tom, co je co nejdříve!",
+ 	 	 	 	 	"trans": "Dungeons jsou v současné době prochází údržbou, Dexter pracuje na tom aby je zprovoznil co nejdříve!",
  	 	 	 	 	"eng": "Dungeons are currently under maintenance, Dexter is working on bringing them back as soon as possible!"
  	 	 	 	}
  	 	 	},
  	 	 	"noHealingPrompt": {
- 	 	 	 	"trans": "Možná si koupit nějakou léčebnou položku jako první?",
+ 	 	 	 	"trans": "Koupit si prvně nějakou lékárničku?",
  	 	 	 	"eng": "Maybe buy some healing item first?",
  	 	 	 	"des": {
- 	 	 	 	 	"trans": "Vypadá to, že nemáte žádnou bolest pryč s vámi, nakupujte ji z Trinoky Mart ve městě nejprve před vstupem do dungeonů, protože nebudete regenovat po bitvách v žaláři",
+ 	 	 	 	 	"trans": "Vypadá to, že s sebou nemáte žádnou lékárničku, nakoupit je můžete ve městě u Trinoky Mart před vstupem do Dungeonů, v Dungeonu se Vám po bitvě neobnoví životy",
  	 	 	 	 	"eng": "Seems like you dont have any Pain Away with you, purchase it from Trinoky Mart in the city first before entering dungeons, since you will not regen after battles in dungeon"
  	 	 	 	},
  	 	 	 	"cancel": {
@@ -1018,7 +1018,7 @@
  	 	 	 	 	"eng": "Later"
  	 	 	 	},
  	 	 	 	"confirm": {
- 	 	 	 	 	"trans": "Zpět na město",
+ 	 	 	 	 	"trans": "Zpět do města",
  	 	 	 	 	"eng": "Back to city"
  	 	 	 	}
  	 	 	}
@@ -1036,21 +1036,21 @@
  	 	 	},
  	 	 	"upgradeSuccess": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Úspěch kalibrace",
+ 	 	 	 	 	"trans": "Kalibrace proběhla úspěšně",
  	 	 	 	 	"eng": "Calibration Success"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "Zjištěná chyba",
+ 	 	 	 	 	"trans": "Nezjištěny žádné chyby",
  	 	 	 	 	"eng": "No error detected"
  	 	 	 	}
  	 	 	},
  	 	 	"leaveDungeon": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Opravdu chcete opustit tento dungeon?",
+ 	 	 	 	 	"trans": "Opravdu chcete opustit tento Dungeon?",
  	 	 	 	 	"eng": "Are you sure you want to leave this dungeon?"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "Nebudete moci znovu zadat tuto instanci Dungeon",
+ 	 	 	 	 	"trans": "Nebudete moci znovu vstoupit do tohoto Dungeonu",
  	 	 	 	 	"eng": "You will not be able to enter this dungeon instance again"
  	 	 	 	}
  	 	 	}
@@ -1061,11 +1061,11 @@
  	 	 	 	"eng": "Daily Reward"
  	 	 	},
  	 	 	"coupon": {
- 	 	 	 	"trans": "Nárok kupón",
+ 	 	 	 	"trans": "Použít kupón",
  	 	 	 	"eng": "Claim Coupon"
  	 	 	},
  	 	 	"referral": {
- 	 	 	 	"trans": "Doporučující program",
+ 	 	 	 	"trans": "Referenční program",
  	 	 	 	"eng": "Referral Program"
  	 	 	},
  	 	 	"skipQueue": {
@@ -1084,21 +1084,21 @@
  	 	 	},
  	 	 	"hasRefererCheckbox": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Zkontrolujte pouze tehdy, pokud máte referer (volitelné)",
+ 	 	 	 	 	"trans": "Vyplňte pouze pokud máte doporučení (volitelné)",
  	 	 	 	 	"eng": "Only check if you have a referer (Optional)"
  	 	 	 	},
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Mám referer",
+ 	 	 	 	 	"trans": "Mám doporučení",
  	 	 	 	 	"eng": "I have a referer"
  	 	 	 	}
  	 	 	},
  	 	 	"refererModal": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Kdo vás odkázal?",
+ 	 	 	 	 	"trans": "Kdo Vám hru doporučil?",
  	 	 	 	 	"eng": "Who referred you?"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Vyhledejte a vyberte hráče, který vás odkazoval",
+ 	 	 	 	 	"trans": "Vyhledejte a vyberte hráče, který Vám hru doporučil",
  	 	 	 	 	"eng": "Please search and select the player who referred you"
  	 	 	 	}
  	 	 	},
@@ -1107,7 +1107,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"name"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Jste nastavili ${name} jako referer",
+ 	 	 	 	 	"trans": "Vybrali jste ${name} jako referenta",
  	 	 	 	 	"eng": "You have set ${name} as your referer"
  	 	 	 	}
  	 	 	},
@@ -1117,12 +1117,12 @@
  	 	 	 	 	"eng": "Character Name"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Budete-li používat urážlivé nebo nevhodné jméno.",
+ 	 	 	 	 	"trans": "Budete-li používat urážlivé nebo nevhodné jméno můžete být zablokováni.",
  	 	 	 	 	"eng": "you will be muted if you use an offensive or inappropriate name."
  	 	 	 	}
  	 	 	},
  	 	 	"confirm": {
- 	 	 	 	"trans": "Vytvořit znak",
+ 	 	 	 	"trans": "Vytvořit postavu",
  	 	 	 	"eng": "Create Character"
  	 	 	},
  	 	 	"confirmModal": {
@@ -1130,11 +1130,11 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"name"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Nastavit název znaku na \"${name}\"?",
+ 	 	 	 	 	"trans": "Nastavit jméno postavy na \"${name}\"?",
  	 	 	 	 	"eng": "set character name to \"${name}\"?"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Nemůžete to změnit v budoucnu",
+ 	 	 	 	 	"trans": "V budoucnu to nebude možno změnit",
  	 	 	 	 	"eng": "You cannot change this in the future"
  	 	 	 	},
  	 	 	 	"confirmButton": {
@@ -1145,7 +1145,7 @@
  	 	},
  	 	"gang": {
  	 	 	"confirmKickMember": {
- 	 	 	 	"trans": "Opravdu chcete kopnout tento hráč ze svého gangu?",
+ 	 	 	 	"trans": "Opravdu chcete vyhodit tohoto hráče z vašeho Gangu?",
  	 	 	 	"eng": "are you sure you want to kick this player from your gang?"
  	 	 	},
  	 	 	"memberContribution": {
@@ -1153,7 +1153,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"resourceContribution"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "${resourceContribution} zdroj",
+ 	 	 	 	 	"trans": "${resourceContribution} Suroviny",
  	 	 	 	 	"eng": "${resourceContribution} Resource"
  	 	 	 	},
  	 	 	 	"occupation": {
@@ -1174,7 +1174,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"expContribution"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "${expContribution} exp",
+ 	 	 	 	 	"trans": "${expContribution} EXP",
  	 	 	 	 	"eng": "${expContribution} exp"
  	 	 	 	}
  	 	 	}
@@ -1185,7 +1185,7 @@
  	 	 	 	"eng": "Coupon"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Pokud máte kupón z jednoho z našich akcí, můžete si ho uplatnit zde.",
+ 	 	 	 	"trans": "Pokud máte kupón z jedné z našich akcí, můžete ho uplatnit zde.",
  	 	 	 	"eng": "If you have a coupon from one of our events, you can claim it here."
  	 	 	},
  	 	 	"placeholder": {
@@ -1199,7 +1199,7 @@
  	 	},
  	 	"craftingPage": {
  	 	 	"title": {
- 	 	 	 	"trans": "Crafting",
+ 	 	 	 	"trans": "Výroba",
  	 	 	 	"eng": "Crafting"
  	 	 	}
  	 	},
@@ -1217,7 +1217,7 @@
  	 	 	 	"eng": "Available"
  	 	 	},
  	 	 	"claimed": {
- 	 	 	 	"trans": "Nárokovaný",
+ 	 	 	 	"trans": "Vybráno",
  	 	 	 	"eng": "Claimed"
  	 	 	},
  	 	 	"cantClaimYet": {
@@ -1227,24 +1227,24 @@
  	 	},
  	 	"combat": {
  	 	 	"enemyIsDeadTitle": {
- 	 	 	 	"trans": "Nenašli jste tu nic",
+ 	 	 	 	"trans": "Nic jste zde nenašli",
  	 	 	 	"eng": "You found nothing here"
  	 	 	},
  	 	 	"equipmentBrokenMsg": {
  	 	 	 	"vars": [
  	 	 	 	 	"equipmentName"
  	 	 	 	],
- 	 	 	 	"trans": "${equipmentName} je rozbitá, opravte ji na zbraně Smith ve městě",
+ 	 	 	 	"trans": "${equipmentName} je rozbitý, opravte jej u Smith ve městě",
  	 	 	 	"eng": "${equipmentName} is broken, repair it at the Weapon Smith in the City"
  	 	 	}
  	 	},
  	 	"dungeonLobby": {
  	 	 	"showCanJoinOnly": {
- 	 	 	 	"trans": "Ukázat pouze dungeony, které mohu připojit",
+ 	 	 	 	"trans": "Ukázat pouze dungeony, do kterých se mohu připojit",
  	 	 	 	"eng": "Only show dungeons I can join"
  	 	 	},
  	 	 	"noDungeon": {
- 	 	 	 	"trans": "V současné době není veřejný dungeon",
+ 	 	 	 	"trans": "V současné době není žádný veřejný dungeon",
  	 	 	 	"eng": "There is currently no public dungeon"
  	 	 	}
  	 	},
@@ -1255,27 +1255,27 @@
  	 	 	 	 	"eng": "Core not found"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "Prosím, vložte kalibrační jádro",
+ 	 	 	 	 	"trans": "Prosím, vložte Kalibrační Jádro",
  	 	 	 	 	"eng": "Please insert Calibration Core"
  	 	 	 	}
  	 	 	},
  	 	 	"activate": {
- 	 	 	 	"trans": "Vložte jádro",
+ 	 	 	 	"trans": "Vložit Jádro",
  	 	 	 	"eng": "Insert Core"
  	 	 	},
  	 	 	"activating": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "zpracovává se",
+ 	 	 	 	 	"trans": "Probíhá zpracování",
  	 	 	 	 	"eng": "Processing"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "Dešifrování Shard",
+ 	 	 	 	 	"trans": "Dešifrování Úlomku",
  	 	 	 	 	"eng": "Decrypting shard"
  	 	 	 	}
  	 	 	},
  	 	 	"noEquipment": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "zařízení nebylo nalezeno",
+ 	 	 	 	 	"trans": "Položka nebyla nalezena",
  	 	 	 	 	"eng": "equipment not found"
  	 	 	 	},
  	 	 	 	"subTitle": {
@@ -1289,12 +1289,12 @@
  	 	 	 	 	"eng": "Compatible Item Identified"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "Veškerý systém Ready",
+ 	 	 	 	 	"trans": "Všechny systémy připraveny",
  	 	 	 	 	"eng": "All system ready"
  	 	 	 	}
  	 	 	},
  	 	 	"failureRate": {
- 	 	 	 	"trans": "Šance na destruktivní selhání",
+ 	 	 	 	"trans": "Šance na zničení",
  	 	 	 	"eng": "Chance of destructive failure"
  	 	 	},
  	 	 	"selectEquipmentTitle": {
@@ -1312,36 +1312,36 @@
  	 	 	 	"eng": "Cyberpunk Text-based MMORPG"
  	 	 	},
  	 	 	"description1": {
- 	 	 	 	"trans": "CyberCode Online je online hra, je nutný účet pro ukládání dat hry.",
+ 	 	 	 	"trans": "CyberCode Online je online hra, pro ukládání postupu je potřeba účet.",
  	 	 	 	"eng": "CyberCode Online is an online game, an account is needed to store game data."
  	 	 	},
  	 	 	"description2": {
- 	 	 	 	"trans": "Zaregistrujte se nebo se přihlaste se stávajícím účtem",
+ 	 	 	 	"trans": "Zaregistrujte se nebo se přihlaste existujícím účtem",
  	 	 	 	"eng": "please register or login with existing account"
  	 	 	}
  	 	},
  	 	"itemInbox": {
  	 	 	"title": {
- 	 	 	 	"trans": "Položka Doručená pošta",
+ 	 	 	 	"trans": "Doručené předměty",
  	 	 	 	"eng": "Item Inbox"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Položky zde budou automaticky přesunuty do inventáře, jakmile máte dostatek prostoru.",
+ 	 	 	 	"trans": "Položky budou automaticky přesunuty do inventáře, až budete mít dostatek prostoru v inventáři.",
  	 	 	 	"eng": "Items here will be automatically moved to your inventory once you have enough space."
  	 	 	},
  	 	 	"expireDate": {
  	 	 	 	"vars": [
  	 	 	 	 	"date"
  	 	 	 	],
- 	 	 	 	"trans": "Vyprší v ${date}",
+ 	 	 	 	"trans": "Vyprší ${date}",
  	 	 	 	"eng": "Expires in ${date}"
  	 	 	},
  	 	 	"empty": {
- 	 	 	 	"trans": "Ve složce Doručená pošta není žádná položka",
+ 	 	 	 	"trans": "Ve složce nejsou žádné položky",
  	 	 	 	"eng": "There is no item in your item inbox"
  	 	 	},
  	 	 	"getAllItems": {
- 	 	 	 	"trans": "Získejte všechny položky",
+ 	 	 	 	"trans": "Vzít všechny položky",
  	 	 	 	"eng": "Get All Items"
  	 	 	}
  	 	},
@@ -1354,11 +1354,11 @@
  	 	"localCombat": {
  	 	 	"nearByEnemiesButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Nedaleké nepřátelé",
+ 	 	 	 	 	"trans": "Nedalecí nepřátelé",
  	 	 	 	 	"eng": "Nearby Enemies"
  	 	 	 	},
  	 	 	 	"desc": {
- 	 	 	 	 	"trans": "Skenování pro blízké nepřátele na ulici jsou nepřátelé mimo dungeony slabší a snazší porážku. Také však klesají méně exp",
+ 	 	 	 	 	"trans": "Porozhlédnete se po nepřátelích v okolí, nepřátelé v okolí jsou slabší než v Dungeonech a lehce je porazíte, ale také získáte méně EXP",
  	 	 	 	 	"eng": "Scans for nearby enemies on the street, enemies outside dungeons are weaker and easier to defeat. However they also drop less exp"
  	 	 	 	}
  	 	 	}
@@ -1379,17 +1379,17 @@
  	 	},
  	 	"shop": {
  	 	 	"sell": {
- 	 	 	 	"trans": "prodat",
+ 	 	 	 	"trans": "Prodat",
  	 	 	 	"eng": "sell"
  	 	 	}
  	 	},
  	 	"noPrintableCaches": {
  	 	 	"title": {
- 	 	 	 	"trans": "Vyrovnávací paměť zařízení nebyla nalezena",
+ 	 	 	 	"trans": "Bedna s vybavením nebyla nalezena",
  	 	 	 	"eng": "Equipment Cache not found"
  	 	 	},
  	 	 	"subTitle": {
- 	 	 	 	"trans": "Sbírejte cache od nepřátel a dungeonů, abyste vytiskli nové zbraně a brnění",
+ 	 	 	 	"trans": "Sbírejte bedny z nepřátel a Dungeonů, abyste mohli vyrobit nové zbraně a brnění",
  	 	 	 	"eng": "gather the caches from enemies and dungeons to print your new weapons and armor"
  	 	 	}
  	 	},
@@ -1399,7 +1399,7 @@
  	 	 	 	"eng": "Create Account"
  	 	 	},
  	 	 	"loginPageButton": {
- 	 	 	 	"trans": "Mít účet?",
+ 	 	 	 	"trans": "Máte účet?",
  	 	 	 	"eng": "Have account?"
  	 	 	}
  	 	},
@@ -1411,7 +1411,7 @@
  	 	 	 	 	 	"eng": "Delete Account"
  	 	 	 	 	},
  	 	 	 	 	"placeholder": {
- 	 	 	 	 	 	"trans": "Zadejte svůj názv znaku, abyste odstranili",
+ 	 	 	 	 	 	"trans": "Pro smazání zadejte jméno postavy",
  	 	 	 	 	 	"eng": "Enter your character name to delete"
  	 	 	 	 	}
  	 	 	 	},
@@ -1429,11 +1429,11 @@
  	 	 	 	"eng": "Updates"
  	 	 	},
  	 	 	"tutorial": {
- 	 	 	 	"trans": "tutorial",
+ 	 	 	 	"trans": "Tutorial",
  	 	 	 	"eng": "tutorial"
  	 	 	},
  	 	 	"credits": {
- 	 	 	 	"trans": "úvěry",
+ 	 	 	 	"trans": "Credits",
  	 	 	 	"eng": "credits"
  	 	 	}
  	 	},
@@ -1441,7 +1441,7 @@
  	 	 	"deleteAccount": {
  	 	 	 	"modal": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Opravdu chcete svůj účet smazat? To je nevratné, všechny informace o účtu budou odstraněny.",
+ 	 	 	 	 	 	"trans": "Opravdu chcete svůj účet smazat? Toto je nevratné, všechny informace o účtu budou odstraněny.",
  	 	 	 	 	 	"eng": "Are you sure you want to delete your account? This is irreversible, all account information will be removed."
  	 	 	 	 	}
  	 	 	 	}
@@ -1449,31 +1449,31 @@
  	 	},
  	 	"tutorialPage": {
  	 	 	"rules": {
- 	 	 	 	"trans": "pravidla",
+ 	 	 	 	"trans": "Pravidla",
  	 	 	 	"eng": "rules"
  	 	 	},
  	 	 	"faq": {
- 	 	 	 	"trans": "faq",
+ 	 	 	 	"trans": "FAQ",
  	 	 	 	"eng": "faq"
  	 	 	},
  	 	 	"referral": {
- 	 	 	 	"trans": "doporučení",
+ 	 	 	 	"trans": "Doporučení",
  	 	 	 	"eng": "referral"
  	 	 	},
  	 	 	"equipment": {
- 	 	 	 	"trans": "zařízení",
+ 	 	 	 	"trans": "Vybavení",
  	 	 	 	"eng": "equipment"
  	 	 	},
  	 	 	"inventory": {
- 	 	 	 	"trans": "inventář",
+ 	 	 	 	"trans": "Inventář",
  	 	 	 	"eng": "inventory"
  	 	 	},
  	 	 	"combat": {
- 	 	 	 	"trans": "boj",
+ 	 	 	 	"trans": "Boj",
  	 	 	 	"eng": "combat"
  	 	 	},
  	 	 	"dungeon": {
- 	 	 	 	"trans": "žalář",
+ 	 	 	 	"trans": "Dungeon",
  	 	 	 	"eng": "dungeon"
  	 	 	},
  	 	 	"social": {
@@ -1481,11 +1481,11 @@
  	 	 	 	"eng": "social"
  	 	 	},
  	 	 	"keys": {
- 	 	 	 	"trans": "klíče",
+ 	 	 	 	"trans": "Klíče",
  	 	 	 	"eng": "keys"
  	 	 	},
  	 	 	"profile": {
- 	 	 	 	"trans": "profil",
+ 	 	 	 	"trans": "Profil",
  	 	 	 	"eng": "profile"
  	 	 	},
  	 	 	"locations": {
@@ -1493,26 +1493,26 @@
  	 	 	 	"eng": "locations"
  	 	 	},
  	 	 	"quests": {
- 	 	 	 	"trans": "questy",
+ 	 	 	 	"trans": "Úkoly",
  	 	 	 	"eng": "quests"
  	 	 	},
  	 	 	"resources": {
- 	 	 	 	"trans": "zdroje",
+ 	 	 	 	"trans": "Suroviny",
  	 	 	 	"eng": "resources"
  	 	 	},
  	 	 	"account": {
- 	 	 	 	"trans": "účet",
+ 	 	 	 	"trans": "Účet",
  	 	 	 	"eng": "account"
  	 	 	}
  	 	}
  	},
  	"misc": {
  	 	"back": {
- 	 	 	"trans": "zadní",
+ 	 	 	"trans": "Zpět",
  	 	 	"eng": "back"
  	 	},
  	 	"escape": {
- 	 	 	"trans": "uniknout",
+ 	 	 	"trans": "Utéct",
  	 	 	"eng": "escape"
  	 	},
  	 	"shield": {
@@ -1528,7 +1528,7 @@
  	 	 	"eng": "Confirm"
  	 	},
  	 	"send": {
- 	 	 	"trans": "poslat",
+ 	 	 	"trans": "Poslat",
  	 	 	"eng": "send"
  	 	},
  	 	"requires": {
@@ -1536,23 +1536,23 @@
  	 	 	"eng": "Requires"
  	 	},
  	 	"durability": {
- 	 	 	"trans": "Trvanlivost",
+ 	 	 	"trans": "Stav",
  	 	 	"eng": "Durability"
  	 	},
  	 	"equipped": {
- 	 	 	"trans": "Vybavený",
+ 	 	 	"trans": "Vybaveno",
  	 	 	"eng": "Equipped"
  	 	},
  	 	"level": {
- 	 	 	"trans": "úroveň",
+ 	 	 	"trans": "Úroveň",
  	 	 	"eng": "level"
  	 	},
  	 	"notTradable": {
- 	 	 	"trans": "není obchodovatelná",
+ 	 	 	"trans": "Neprodejné",
  	 	 	"eng": "not tradable"
  	 	},
  	 	"amount": {
- 	 	 	"trans": "množství",
+ 	 	 	"trans": "Množství",
  	 	 	"eng": "Amount"
  	 	},
  	 	"itemUpgradeCapacity": {
@@ -1564,7 +1564,7 @@
  	 	 	"eng": "Global Effects"
  	 	},
  	 	"name": {
- 	 	 	"trans": "název",
+ 	 	 	"trans": "Název",
  	 	 	"eng": "Name"
  	 	},
  	 	"tag": {
@@ -1584,15 +1584,15 @@
  	 	 	"eng": "Quick Slot"
  	 	},
  	 	"receives": {
- 	 	 	"trans": "Přijímá",
+ 	 	 	"trans": "Obdrží",
  	 	 	"eng": "Receives"
  	 	},
  	 	"inputPlaceholder": {
- 	 	 	"trans": "Zadejte zprávu pro spuštění chatování",
+ 	 	 	"trans": "Zadejte zprávu pro zahájení chatování",
  	 	 	"eng": "Enter message to start chatting"
  	 	},
  	 	"moderators": {
- 	 	 	"trans": "moderátoři",
+ 	 	 	"trans": "Moderátoři",
  	 	 	"eng": "moderators"
  	 	},
  	 	"purchase": {
@@ -1600,11 +1600,11 @@
  	 	 	"eng": "Purchase"
  	 	},
  	 	"missing": {
- 	 	 	"trans": "chybějící",
+ 	 	 	"trans": "Chybějící",
  	 	 	"eng": "missing"
  	 	},
  	 	"dungeons": {
- 	 	 	"trans": "dungeons",
+ 	 	 	"trans": "Dungeony",
  	 	 	"eng": "dungeons"
  	 	},
  	 	"enemies": {
@@ -1612,16 +1612,16 @@
  	 	 	"eng": "Enemies"
  	 	},
  	 	"okay": {
- 	 	 	"trans": "dobře",
+ 	 	 	"trans": "Dobře",
  	 	 	"eng": "okay"
  	 	},
  	 	"close": {
- 	 	 	"trans": "zavřít",
+ 	 	 	"trans": "Zavřít",
  	 	 	"eng": "close"
  	 	},
  	 	"characterNameError": {
  	 	 	"hasSpace": {
- 	 	 	 	"trans": "Název nemůže obsahovat mezery, můžete nahradit prostor \"_\"",
+ 	 	 	 	"trans": "Jméno nemůže obsahovat mezery, mezeru můžete nahradit \"_\"",
  	 	 	 	"eng": "Name cannot contain spaces, you may replace the space with \"_\""
  	 	 	},
  	 	 	"tooShort": {
@@ -1629,7 +1629,7 @@
  	 	 	 	"eng": "Name must be at least 4 characters long"
  	 	 	},
  	 	 	"tooLong": {
- 	 	 	 	"trans": "Jméno musí být menší nebo roven 16 znakům",
+ 	 	 	 	"trans": "Jméno musí být menší nebo rovno 16 znakům",
  	 	 	 	"eng": "Name must be less or equal to 16 characters long"
  	 	 	},
  	 	 	"invalidChar": {
@@ -1653,11 +1653,11 @@
  	"itemLore": {
  	 	"contribution": {
  	 	 	"title": {
- 	 	 	 	"trans": "Hráč přispěl obsah",
+ 	 	 	 	"trans": "Hráčí přispěný obsah",
  	 	 	 	"eng": "Player contributed content"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Můžete také přispět k tradici příliš editovat soubor Config v našem stránce GitHub.",
+ 	 	 	 	"trans": "Můžete také přispět k příběhu itemu pomocí editace souboru Config v našem stránce GitHub.",
  	 	 	 	"eng": "You can contribute to the lore of items too by editing the config file in our GitHub page."
  	 	 	},
  	 	 	"confirm": {
@@ -1672,22 +1672,22 @@
  	},
  	"cost": {
  	 	"requireGang": {
- 	 	 	"trans": "Vyžaduje, abyste byli v gangu",
+ 	 	 	"trans": "Vyžaduje, abyste byli v Gangu",
  	 	 	"eng": "Requires you to be in a gang"
  	 	},
  	 	"requireTopGang": {
- 	 	 	"trans": "Vyžaduje, abyste byli v top 2 gangy na okupačního vůně",
+ 	 	 	"trans": "Vyžaduje, abyste byli v top 2 Gangy na Okupační tabulce",
  	 	 	"eng": "Requires you to be in the Top 2 Gangs on the Occupation Leaderboard"
  	 	}
  	},
  	"statsType": {
  	 	"maxHealth": {
  	 	 	"name": {
- 	 	 	 	"trans": "Max Health",
+ 	 	 	 	"trans": "Max životy",
  	 	 	 	"eng": "Max Health"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Maximální zdravotní kapacita",
+ 	 	 	 	"trans": "Maximální zdraví",
  	 	 	 	"eng": "Maximum health capacity"
  	 	 	}
  	 	},
@@ -1707,17 +1707,17 @@
  	 	 	 	"eng": "Armor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Snižuje poškození převzatých z nepřátel",
+ 	 	 	 	"trans": "Snižuje poškození utržené od nepřátel",
  	 	 	 	"eng": "Decreases damage taken from enemies"
  	 	 	}
  	 	},
  	 	"healthRegen": {
  	 	 	"name": {
- 	 	 	 	"trans": "Zdraví déšť",
+ 	 	 	 	"trans": "Obnova zdraví",
  	 	 	 	"eng": "Health regen"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Množství zdravotního stavu regenerovaného po skončení boje",
+ 	 	 	 	"trans": "Množství obnoveného zdraví po skončení boje",
  	 	 	 	"eng": "Amount of health regenerated after the end of combat"
  	 	 	}
  	 	},
@@ -1727,57 +1727,57 @@
  	 	 	 	"eng": "Damage"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Přímo ovlivňuje množství poškození",
+ 	 	 	 	"trans": "Přímo ovlivňuje množství uděleného poškození",
  	 	 	 	"eng": "Directly influences the amount of damage dealt by you"
  	 	 	}
  	 	},
  	 	"critChance": {
  	 	 	"name": {
- 	 	 	 	"trans": "Kritérium",
+ 	 	 	 	"trans": "Kritická šance",
  	 	 	 	"eng": "Crit chance"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Šance, abyste provedli kritický útok",
+ 	 	 	 	"trans": "Šance na kritický útok",
  	 	 	 	"eng": "Chance of you executing a critical attack"
  	 	 	}
  	 	},
  	 	"critDamage": {
  	 	 	"name": {
- 	 	 	 	"trans": "Kritizovat škodu",
+ 	 	 	 	"trans": "Kritické poškození",
  	 	 	 	"eng": "Crit damage"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Ovlivnit kritickou útokovou škodu, kterou se zabýváte nepříteli",
+ 	 	 	 	"trans": "Ovlivňuje udělené kritické poškození",
  	 	 	 	"eng": "Influence the critical attack damage you deal to the enemy"
  	 	 	}
  	 	},
  	 	"maxShield": {
  	 	 	"name": {
- 	 	 	 	"trans": "Maxshield",
+ 	 	 	 	"trans": "Max Štít",
  	 	 	 	"eng": "MaxShield"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Zvyšuje kapacitu vaší štíty",
+ 	 	 	 	"trans": "Zvyšuje kapacitu vašeho štítu",
  	 	 	 	"eng": "Increases your shield capacity"
  	 	 	}
  	 	},
  	 	"escape": {
  	 	 	"name": {
- 	 	 	 	"trans": "Uniknout",
+ 	 	 	 	"trans": "Utéct",
  	 	 	 	"eng": "Escape"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Šance na vás uniknout z dungeonu nepřítele",
+ 	 	 	 	"trans": "Šance na útěk před nepřáteli z Dungeonu",
  	 	 	 	"eng": "Chances of you escaping from a dungeon enemy"
  	 	 	}
  	 	},
  	 	"stunChance": {
  	 	 	"name": {
- 	 	 	 	"trans": "Omráčení",
+ 	 	 	 	"trans": "Šance na omráčení",
  	 	 	 	"eng": "Stun chance"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Šance na vás ohromující svého nepřítele při jednání škody, \r\n     způsobuje, že nejsou schopni reagovat na váš útok",
+ 	 	 	 	"trans": "Šance na omráčení při udělení poškození, \r\n     způsobuje, že nejsou schopni reagovat na váš útok",
  	 	 	 	"eng": "Chance of you stunning your enemy when dealing damage, \r\n    causing them not able to respond to your attack"
  	 	 	}
  	 	},
@@ -1787,7 +1787,7 @@
  	 	 	 	"eng": "Evade"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Možnost útoku nepřátel",
+ 	 	 	 	"trans": "Možnost na úhyb útoku nepřátel",
  	 	 	 	"eng": "Chance of you dodging an enemies attack"
  	 	 	}
  	 	},
@@ -1797,7 +1797,7 @@
  	 	 	 	"eng": "Bargain"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Ovlivňuje cenu při nákupu a prodeji z NPC nebo obchodů.",
+ 	 	 	 	"trans": "Ovlivňuje cenu při nákupu a prodeji od NPC nebo obchodů.",
  	 	 	 	"eng": "Influences the price when buying and selling from npc's or stores."
  	 	 	}
  	 	},
@@ -1807,17 +1807,17 @@
  	 	 	 	"eng": "Pocket"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Zvyšuje kapacitu zásob",
+ 	 	 	 	"trans": "Zvyšuje kapacitu inventáře",
  	 	 	 	"eng": "Increases inventory capacity"
  	 	 	}
  	 	},
  	 	"damageMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "Poškození multiplikátoru",
+ 	 	 	 	"trans": "Multiplikátor poškození",
  	 	 	 	"eng": "Damage multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Zvyšuje poškození procentem",
+ 	 	 	 	"trans": "Procentuální zvýšení poškození",
  	 	 	 	"eng": "Increases damage by percentage"
  	 	 	}
  	 	},
@@ -1827,37 +1827,37 @@
  	 	 	 	"eng": "Defence multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Snižuje poškození přijaté procento",
+ 	 	 	 	"trans": "Procentuální snížení utrženého poškození",
  	 	 	 	"eng": "Decreases damage received by percentage"
  	 	 	}
  	 	},
  	 	"stunEvade": {
  	 	 	"name": {
- 	 	 	 	"trans": "Omráčení Evans",
+ 	 	 	 	"trans": "Vyhnutí omráčení",
  	 	 	 	"eng": "Stun evade"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Snižuje šanci na ohromení",
+ 	 	 	 	"trans": "Snižuje šanci na omráčení",
  	 	 	 	"eng": "Decreases chance of getting stunned"
  	 	 	}
  	 	},
  	 	"shieldMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "Shield Multiplier",
+ 	 	 	 	"trans": "Multiplikátor štítu",
  	 	 	 	"eng": "Shield multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Zvýšit sílu štítu o procento",
+ 	 	 	 	"trans": "Procentuální zvýšení štítu",
  	 	 	 	"eng": "Increase strength of shield by percentage"
  	 	 	}
  	 	},
  	 	"healMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "Léčivý multiplikátor",
+ 	 	 	 	"trans": "Multiplikátor léčení",
  	 	 	 	"eng": "Healing multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Zvyšuje účinnost vašich patů",
+ 	 	 	 	"trans": "Zvyšuje účinnost léčení",
  	 	 	 	"eng": "Increases the potency of your heals"
  	 	 	}
  	 	},
@@ -1867,17 +1867,17 @@
  	 	 	 	"eng": "Time reduction"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Snižte potřebný čas AFK",
+ 	 	 	 	"trans": "Snižte potřebný čas pro dokončení AFK úkolů",
  	 	 	 	"eng": "Reduce AFK task required time"
  	 	 	}
  	 	},
  	 	"expMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "Exp multiplikátor",
+ 	 	 	 	"trans": "EXP multiplikátor",
  	 	 	 	"eng": "Exp multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Zvýšení exp obdržíte",
+ 	 	 	 	"trans": "Zvýšení odbrdžených EXP",
  	 	 	 	"eng": "Increase EXP you receive"
  	 	 	}
  	 	},
@@ -1887,17 +1887,17 @@
  	 	 	 	"eng": "BTC multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Zvýšení bitcoinů obdržíte",
+ 	 	 	 	"trans": "Zvýšení obdržených bitcoinů",
  	 	 	 	"eng": "Increase Bitcoins you receive"
  	 	 	}
  	 	},
  	 	"upgradeChance": {
  	 	 	"name": {
- 	 	 	 	"trans": "Kalibrační příležitost",
+ 	 	 	 	"trans": "Šance na Kalibraci",
  	 	 	 	"eng": "Calibration Chance"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Snižuje šanci na destruktivní selhání při kalibrování položek",
+ 	 	 	 	"trans": "Snižuje šanci na zničení předmětů při Kalibraci",
  	 	 	 	"eng": "Reduces chance of destructive failure when calibrating items"
  	 	 	}
  	 	},
@@ -1907,7 +1907,7 @@
  	 	 	 	"eng": "Calibration Safety"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Kalibrace selže nebude zničit položku",
+ 	 	 	 	"trans": "Selhání Kalibrace nezničí položku",
  	 	 	 	"eng": "Calibration fails will not destroy the item"
  	 	 	}
  	 	},
@@ -1919,7 +1919,7 @@
  	 	},
  	 	"rngInterferer": {
  	 	 	"description": {
- 	 	 	 	"trans": "Další epická pokles šance z kontejnerů",
+ 	 	 	 	"trans": "Šance na získání EPIC z kontejnerů",
  	 	 	 	"eng": "Additional epic drop chance from containers"
  	 	 	}
  	 	}
@@ -1930,7 +1930,7 @@
  	 	 	 	"verb",
  	 	 	 	"amount"
  	 	 	],
- 	 	 	"trans": "Můžete ${verb} ${amount} časy",
+ 	 	 	"trans": "Můžete ${verb} ${amount} krát",
  	 	 	"eng": "You can ${verb} ${amount} times"
  	 	},
  	 	"timeRequiredText": {
@@ -1951,28 +1951,28 @@
  	 	 	"vars": [
  	 	 	 	"clanResource"
  	 	 	],
- 	 	 	"trans": "${clanResource} zdroj gangu",
+ 	 	 	"trans": "${clanResource} Zdroje Gangu",
  	 	 	"eng": "${clanResource} gang resource"
  	 	},
  	 	"gangExp": {
  	 	 	"vars": [
  	 	 	 	"clanExp"
  	 	 	],
- 	 	 	"trans": "${clanExp} gang exp",
+ 	 	 	"trans": "${clanExp} Gang EXP",
  	 	 	"eng": "${clanExp} gang exp"
  	 	},
  	 	"gangFunding": {
  	 	 	"vars": [
  	 	 	 	"clanMoney"
  	 	 	],
- 	 	 	"trans": "${clanMoney} financování gangu",
+ 	 	 	"trans": "${clanMoney} Financování Gangu",
  	 	 	"eng": "${clanMoney} gang funding"
  	 	},
  	 	"gangOccupationPoint": {
  	 	 	"vars": [
  	 	 	 	"clanOccupationPoint"
  	 	 	],
- 	 	 	"trans": "${clanOccupationPoint} Ovládání povolání",
+ 	 	 	"trans": "${clanOccupationPoint} okupuje území",
  	 	 	"eng": "${clanOccupationPoint} Occupation Control"
  	 	},
  	 	"globalQuestPoint": {
