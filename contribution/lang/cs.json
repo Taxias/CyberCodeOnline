@@ -13,7 +13,7 @@
  	 	 	"eng": "Quest"
  	 	},
  	 	"chat": {
- 	 	 	"trans": "Povídat si",
+ 	 	 	"trans": "Chat",
  	 	 	"eng": "Chat"
  	 	},
  	 	"profile": {
@@ -1897,13 +1897,13 @@
  	 	 	 	"eng": "Calibration Chance"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Snižuje šanci na destruktivní selhání při kalibrování položek",
+ 	 	 	 	"trans": "Snižuje šanci na destrukci při kalibrování položek",
  	 	 	 	"eng": "Reduces chance of destructive failure when calibrating items"
  	 	 	}
  	 	},
  	 	"upgradeNoBreak": {
  	 	 	"name": {
- 	 	 	 	"trans": "Kalibrační bezpečnost",
+ 	 	 	 	"trans": "Bezpečná kalibrace",
  	 	 	 	"eng": "Calibration Safety"
  	 	 	},
  	 	 	"description": {
@@ -2009,7 +2009,7 @@
  	 	 	 	"eng": "Discard"
  	 	 	},
  	 	 	"warning": {
- 	 	 	 	"trans": "Výše uvedená položka / položky budou vyřazeny a nesmí být umístěny do vašeho inventáře. Tato akce je nevratná.",
+ 	 	 	 	"trans": "Výše uvedené položky budou vyřazeny a nebudou umístěny do vašeho inventáře. Tato akce je nevratná.",
  	 	 	 	"eng": "The item/items above will be discarded and not be placed into your inventory. This action is irreversible."
  	 	 	}
  	 	}
@@ -2023,11 +2023,11 @@
  	 	},
  	 	"newbie": {
  	 	 	"name": {
- 	 	 	 	"trans": "Newbie s přínosem",
+ 	 	 	 	"trans": "Nováček s výhodami",
  	 	 	 	"eng": "Newbie with benefit"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Zabijte některé nepřátele a získejte úplný soubor položek pro začátek cesty",
+ 	 	 	 	"trans": "Zabijte část nepřátele a získejte sadu vybavení do začátku",
  	 	 	 	"eng": "Kill some enemies and get a full set of items for you to start your journey"
  	 	 	}
  	 	},
@@ -2037,44 +2037,44 @@
  	 	 	 	"eng": "Allies and Friends"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Vítejte v CyberCode online, \r\n         dělat přátele s lidmi online bude velmi užitečná pro dokončení co-op questy, \r\n         Pokračujte, zeptejte se lidí online, pokud máte nějaké dotazy :) \r\n         Nezapomeňte, že pokud jste spam v chatu, budete ztlumeni moderátory.",
+ 	 	 	 	"trans": "Vítejte v CyberCode online, \r\n         udělat si přátele mezi ostatními hráči bude velmi užitečné dokončení co-op questy, \r\n         Neváhejte se zeptat ostatních hráčů kteří jsou online :) \r\n         Nezapomeňte, že pokud budete spamovat v chatu, budete ztlumeni moderátory.",
  	 	 	 	"eng": "Welcome to CyberCode Online,\r\n        making friends with people online will be very useful for you to complete co-op quests,\r\n        go ahead ask people online if you have got any questions :)\r\n        Remember, if you spam in the chat, you will be muted by moderators."
  	 	 	}
  	 	},
  	 	"newbie3": {
  	 	 	"displayName": {
- 	 	 	 	"trans": "REACH TISK RANK 3",
+ 	 	 	 	"trans": "Dosáhněte Tisk 3.úrovně",
  	 	 	 	"eng": "Reach printing rank 3"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Úroveň položek, které tisknete s cache, jsou určena vaší tiskem, \r\n         Vyrovnejte svou pozici tisku, abyste mohli vytisknout položky vyšší úrovně. \r\n        \r\n         Můžete najít molekulární 3D tiskárnu v [Central Hub], použijte jej k tisku některých mezipaměti k vyrovnání vašeho tisku",
+ 	 	 	 	"trans": "Úroveň položek, které tisknete z beden, jsou ovlivněny úrovní Tisku, \r\n         získejte vyšší úroveň Tisku, abyste mohli vytisknout položky vyšší úrovně. \r\n        \r\n         Molekulární 3D Tiskárnu můžete najít v [Central Hub], použijte ji k tisku některých předmětů a zvýšenní úrovně Tisku",
  	 	 	 	"eng": "The level of itemS you print with Caches are determined by your Printing Rank,\r\n        level up your Printing Rank so you can print higher level items.\r\n        \r\n        You can find Molecular 3D Printer at [Central Hub], use it to print some caches to level up your Printing Rank"
  	 	 	}
  	 	},
  	 	"newbie4": {
  	 	 	"displayName": {
- 	 	 	 	"trans": "Otevřená bedna",
+ 	 	 	 	"trans": "Otevřít bednu",
  	 	 	 	"eng": "Open Crate"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Otevřete 4 bedny v žaláři, abyste je dostali sladké kořisti!",
+ 	 	 	 	"trans": "Otevřete v Dugeonu 4 bedny a získejte skvělé věci!",
  	 	 	 	"eng": "Open 4 crates in dungeon to get them sweet loots!"
  	 	 	}
  	 	},
  	 	"market": {
  	 	 	"displayName": {
- 	 	 	 	"trans": "Obchodník trhu",
+ 	 	 	 	"trans": "Obchodník na trhu",
  	 	 	 	"eng": "Market merchant"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Můžete prodávat a zakoupit položky od hráčů na trhu hráče, vyzkoušet si to přidáním položky na trh hráče",
+ 	 	 	 	"trans": "Na Hráčském trhu můžete nakupovat a prodávat věci, vyzkoušejte to a přidejte do Hráčského trhu věc na prodej",
  	 	 	 	"eng": "You can sell and purchase items from players in the player market, try it out by adding an item to the player market"
  	 	 	}
  	 	},
  	 	"questType": {
  	 	 	"normal": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "normální",
+ 	 	 	 	 	"trans": "Normální",
  	 	 	 	 	"eng": "normal"
  	 	 	 	}
  	 	 	},
@@ -2086,7 +2086,7 @@
  	 	 	},
  	 	 	"dungeon": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "žalář",
+ 	 	 	 	 	"trans": "Dungeon",
  	 	 	 	 	"eng": "dungeon"
  	 	 	 	}
  	 	 	}
@@ -2103,7 +2103,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"segmentDisplayName"
  	 	 	 	],
- 	 	 	 	"trans": "Získejte 3 různé fragmenty klíčů z každých dungeonů umístěných v ${segmentDisplayName}, \r\n                 Ty se používají k vytvoření klíče k další zóně. \r\n                 Chcete-li řemeslovat klíč, přejděte na terminál v [Hub]",
+ 	 	 	 	"trans": "Získejte 3 různé Fragmenty klíčů z každého Dungeonu v ${segmentDisplayName}, \r\n                 Ty se používají k vytvoření klíče k další zóně. \r\n                 Pro výrobu klíče jděte na Terminál v [Hub]",
  	 	 	 	"eng": "Acquire 3 different Key Fragments from each dungeons located in ${segmentDisplayName},\r\n                these are used to create the key to next zone.\r\n                To craft the key, go to terminal in [HUB]"
  	 	 	}
  	 	},
@@ -2127,15 +2127,15 @@
  	 	 	 	}
  	 	 	},
  	 	 	"dealDamage": {
- 	 	 	 	"trans": "Poškození dohody",
+ 	 	 	 	"trans": "Udělit poškození",
  	 	 	 	"eng": "Deal Damage"
  	 	 	},
  	 	 	"exp": {
- 	 	 	 	"trans": "Získat exp",
+ 	 	 	 	"trans": "Získat EXP",
  	 	 	 	"eng": "Gain exp"
  	 	 	},
  	 	 	"joinDungeon": {
- 	 	 	 	"trans": "Připojte se k Dungeon",
+ 	 	 	 	"trans": "Připojte se k Dungeonu",
  	 	 	 	"eng": "Join Dungeon"
  	 	 	},
  	 	 	"killEnemy": {
@@ -2147,34 +2147,34 @@
  	 	 	 	"eng": "Acquire Bitcoin"
  	 	 	},
  	 	 	"print": {
- 	 	 	 	"trans": "Molekulární tisk",
+ 	 	 	 	"trans": "Molekulární Tisk",
  	 	 	 	"eng": "Molecular Printing"
  	 	 	}
  	 	},
  	 	"abandonConfirm": {
- 	 	 	"trans": "Opravdu chcete opustit tento úkol?",
+ 	 	 	"trans": "Opravdu chcete ukončit tento úkol?",
  	 	 	"eng": "Are you sure you want to abandon this quest?"
  	 	}
  	},
  	"tutorial": {
  	 	"localCombatButton": {
- 	 	 	"trans": "Klikněte zde pro skenování ulice nepřátele",
+ 	 	 	"trans": "Klikněte ZDE pro skenování nepřátel na ulici",
  	 	 	"eng": "Click here to scan for street enemies"
  	 	},
  	 	"localCombatTip": {
- 	 	 	"trans": "Dostanete exp, bitcoin a kořist, když porazíte nepřátele, \n                 zkuste to teď!",
+ 	 	 	"trans": "Když porazíte nepřítele získáte EXP, Bitcoiny a koříst, \n                 zkuste to teď!",
  	 	 	"eng": "you will receive exp, Bitcoin and loots when you defeat enemies,\n                give it a try now!"
  	 	},
  	 	"primaryAttack": {
- 	 	 	"trans": "Klikněte zde pro útok na nepřítele",
+ 	 	 	"trans": "Klikněte ZDE pro útok na nepřítele",
  	 	 	"eng": "Click here to attack the enemy"
  	 	},
  	 	"statusInv": {
- 	 	 	"trans": "Klikněte na tlačítko \"Vezměte vše\", abyste získali všechny kořisti",
+ 	 	 	"trans": "Klikněte na tlačítko \"Vezměte vše\", abyste sebrali všechnu kořist",
  	 	 	"eng": "Click 'TAKE ALL' to get all the loots"
  	 	},
  	 	"dungeonQuest": {
- 	 	 	"trans": "Klikněte na 'Přijměte quest' přijmout quest, můžete dokončit nebo opustit quest kdykoliv",
+ 	 	 	"trans": "Klikněte na 'Přijmout úkol' pro přijetí, úkol můžete kdykoliv zrušit nebo dokončit",
  	 	 	"eng": "Click 'ACCEPT QUEST' to accept the quest, you may complete or abandon the quest at any time"
  	 	}
  	},
@@ -2184,7 +2184,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "${unit} jednotka",
+ 	 	 	 	"trans": "${unit} Jednotek",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -2192,7 +2192,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Přijměte jednotku ${unit}",
+ 	 	 	 	"trans": "Získáte ${unit} Jednotek (${bonus} bonus)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -2201,7 +2201,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "${unit} jednotka",
+ 	 	 	 	"trans": "${unit} Jednotek",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	}
  	 	},
@@ -2210,7 +2210,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "${unit} jednotka",
+ 	 	 	 	"trans": "${unit} Jednotek",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -2218,7 +2218,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Přijměte jednotku ${unit} (${bonus} bonus)",
+ 	 	 	 	"trans": "Získáte ${unit} Jednotek (${bonus} bonus)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -2227,7 +2227,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "${unit} jednotka",
+ 	 	 	 	"trans": "${unit} Jednotek",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -2235,7 +2235,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Přijměte jednotku ${unit} (${bonus} bonus)",
+ 	 	 	 	"trans": "Získáte ${unit} Jednotek (${bonus} bonus)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -2244,7 +2244,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "${unit} jednotka",
+ 	 	 	 	"trans": "${unit} Jednotek",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -2252,7 +2252,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Přijměte jednotku ${unit} (${bonus} bonus)",
+ 	 	 	 	"trans": "Získáte ${unit} Jednotek (${bonus} bonus)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -2261,7 +2261,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "${unit} jednotka",
+ 	 	 	 	"trans": "${unit} Jednotek",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -2269,7 +2269,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Přijměte jednotku ${unit} (${bonus} bonus)",
+ 	 	 	 	"trans": "Získáte ${unit} Jednotek (${bonus} bonus)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -2278,7 +2278,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "${unit} jednotka",
+ 	 	 	 	"trans": "${unit} Jednotek",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -2286,7 +2286,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Přijměte jednotku ${unit} (${bonus} bonus)",
+ 	 	 	 	"trans": "Získáte ${unit} Jednotek (${bonus} bonus)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -2295,7 +2295,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "${unit} jednotka",
+ 	 	 	 	"trans": "${unit} Jednotek",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -2303,7 +2303,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Přijměte jednotku ${unit} (${bonus} bonus)",
+ 	 	 	 	"trans": "Získáte ${unit} Jednotek (${bonus} bonus)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -2312,7 +2312,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "${unit} jednotka",
+ 	 	 	 	"trans": "${unit} Jednotek",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -2320,7 +2320,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Přijměte jednotku ${unit} (${bonus} bonus)",
+ 	 	 	 	"trans": "Získáte ${unit} Jednotek (${bonus} bonus)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	}
@@ -2338,16 +2338,16 @@
  	 	},
  	 	"paypal": {
  	 	 	"paypalBonusTitle": {
- 	 	 	 	"trans": "Všechny PayPal nákupy grantů 10% dalších jednotek! PayPal můžete používat pouze na verzi webu, jednoduše se přihlaste s prohlížečem.",
+ 	 	 	 	"trans": "Všechny PayPal nákupy garantují 10% Jednotek navíc! PayPal můžete používat pouze v prohlížeči, jednoduše se přihlaste v prohlížeči.",
  	 	 	 	"eng": "All PayPal purchases grants 10% additional Units! You may use paypal only on website version, simply login with your browser."
  	 	 	},
  	 	 	"paypalBonus": {
- 	 	 	 	"trans": "Dostanete další 10% více jednotek s PayPal nákupem",
+ 	 	 	 	"trans": "Nákupem přes PayPal získáta navíc 10% Jednotek",
  	 	 	 	"eng": "You will receive additional 10% more Units with paypal purchase"
  	 	 	}
  	 	},
  	 	"receive": {
- 	 	 	"trans": "Dostávat",
+ 	 	 	"trans": "Získat",
  	 	 	"eng": "Receive"
  	 	},
  	 	"purchasing": {
@@ -2355,7 +2355,7 @@
  	 	 	"eng": "Purchasing"
  	 	},
  	 	"total": {
- 	 	 	"trans": "celkový",
+ 	 	 	"trans": "Celkem",
  	 	 	"eng": "total"
  	 	}
  	},
@@ -2367,11 +2367,11 @@
  	 	 	 	 	"eng": "\"Member\" donation title"
  	 	 	 	},
  	 	 	 	"2": {
- 	 	 	 	 	"trans": "Odemkněte profilový obrázek přizpůsobení",
+ 	 	 	 	 	"trans": "Odemknout úpravy profilových obrázků",
  	 	 	 	 	"eng": "Unlock profile picture customization"
  	 	 	 	},
  	 	 	 	"3": {
- 	 	 	 	 	"trans": "Základní rámeček chatu (bez animace a žádná speciální barva)",
+ 	 	 	 	 	"trans": "Základní rámeček chatu (žádné animace a speciální barvy)",
  	 	 	 	 	"eng": "Basic Chat Frame (no animation & no special color)"
  	 	 	 	}
  	 	 	}
@@ -2383,7 +2383,7 @@
  	 	 	 	 	"eng": "\"Donator\" donation title"
  	 	 	 	},
  	 	 	 	"2": {
- 	 	 	 	 	"trans": "Odemkněte profilový obrázek přizpůsobení",
+ 	 	 	 	 	"trans": "Odemknout přizpůsobení profilových obrázků",
  	 	 	 	 	"eng": "Unlock profile picture customization"
  	 	 	 	},
  	 	 	 	"3": {
@@ -2391,7 +2391,7 @@
  	 	 	 	 	"eng": "Green Chat Frame (with animation)"
  	 	 	 	},
  	 	 	 	"4": {
- 	 	 	 	 	"trans": "Zelený rámovaný profil",
+ 	 	 	 	 	"trans": "Zelený rámeček profilu",
  	 	 	 	 	"eng": "Green Framed Profile"
  	 	 	 	}
  	 	 	}
@@ -2403,19 +2403,19 @@
  	 	 	 	 	"eng": "\"Elite\" donation title"
  	 	 	 	},
  	 	 	 	"2": {
- 	 	 	 	 	"trans": "Odemkněte profilový obrázek přizpůsobení",
+ 	 	 	 	 	"trans": "Odemknout přizpůsobení profilových obrázků",
  	 	 	 	 	"eng": "Unlock profile picture customization"
  	 	 	 	},
  	 	 	 	"3": {
- 	 	 	 	 	"trans": "Gold Chat rám (s animací)",
+ 	 	 	 	 	"trans": "Zlatý rámeček chatu (s animací)",
  	 	 	 	 	"eng": "Gold chat frame (with animation)"
  	 	 	 	},
  	 	 	 	"4": {
- 	 	 	 	 	"trans": "Zlatý rámovaný profil (s animací)",
+ 	 	 	 	 	"trans": "Zlatý rámeček profilu (s animací)",
  	 	 	 	 	"eng": "Gold Framed Profile (with animation)"
  	 	 	 	},
  	 	 	 	"5": {
- 	 	 	 	 	"trans": "Odemkněte vlastní bio",
+ 	 	 	 	 	"trans": "Odemknout vlastní bio",
  	 	 	 	 	"eng": "Unlock custom bio"
  	 	 	 	},
  	 	 	 	"6": {
@@ -2423,15 +2423,15 @@
  	 	 	 	 	"eng": "Barcode decoration on profile"
  	 	 	 	},
  	 	 	 	"7": {
- 	 	 	 	 	"trans": "Přizpůsobit hang motto",
+ 	 	 	 	 	"trans": "Upravit Gang motto",
  	 	 	 	 	"eng": "Customize gang motto"
  	 	 	 	},
  	 	 	 	"8": {
- 	 	 	 	 	"trans": "Přizpůsobit gangový obraz",
+ 	 	 	 	 	"trans": "Upravit obrázek Gangu",
  	 	 	 	 	"eng": "Customize gang image"
  	 	 	 	},
  	 	 	 	"9": {
- 	 	 	 	 	"trans": "Více přichází v budoucnu",
+ 	 	 	 	 	"trans": "Více v budoucnu s další aktualizací",
  	 	 	 	 	"eng": "More coming in future update"
  	 	 	 	}
  	 	 	}
@@ -2443,19 +2443,19 @@
  	 	 	 	 	"eng": "\"Legendary\" donation title"
  	 	 	 	},
  	 	 	 	"2": {
- 	 	 	 	 	"trans": "Odemkněte profilový obrázek přizpůsobení",
+ 	 	 	 	 	"trans": "Odemknout přizpůsobení profilových obrázků",
  	 	 	 	 	"eng": "Unlock profile picture customization"
  	 	 	 	},
  	 	 	 	"3": {
- 	 	 	 	 	"trans": "Fialový rámeček (s animací)",
+ 	 	 	 	 	"trans": "Fialový rámeček chatu (s animací)",
  	 	 	 	 	"eng": "Purple chat frame (with animation)"
  	 	 	 	},
  	 	 	 	"4": {
- 	 	 	 	 	"trans": "Fialový rámovaný profil (s animací)",
+ 	 	 	 	 	"trans": "Fialový rámeček profilu (s animací)",
  	 	 	 	 	"eng": "Purple Framed Profile (with animation)"
  	 	 	 	},
  	 	 	 	"5": {
- 	 	 	 	 	"trans": "Odemkněte vlastní bio",
+ 	 	 	 	 	"trans": "Odemknout vlastní bio",
  	 	 	 	 	"eng": "Unlock custom bio"
  	 	 	 	},
  	 	 	 	"6": {
@@ -2463,15 +2463,15 @@
  	 	 	 	 	"eng": "Barcode decoration on profile"
  	 	 	 	},
  	 	 	 	"7": {
- 	 	 	 	 	"trans": "Přizpůsobit hang motto",
+ 	 	 	 	 	"trans": "Upravit Gang motto",
  	 	 	 	 	"eng": "Customize gang motto"
  	 	 	 	},
  	 	 	 	"8": {
- 	 	 	 	 	"trans": "Přizpůsobit gangový obraz",
+ 	 	 	 	 	"trans": "Upravit obrázek Gangu",
  	 	 	 	 	"eng": "Customize gang image"
  	 	 	 	},
  	 	 	 	"9": {
- 	 	 	 	 	"trans": "Více přichází v budoucnu",
+ 	 	 	 	 	"trans": "Více v budoucnu s další aktualizací",
  	 	 	 	 	"eng": "More coming in future update"
  	 	 	 	}
  	 	 	}
@@ -2487,19 +2487,19 @@
  	 	 	 	 	"eng": "\"Cybernetic Potato\" donation title"
  	 	 	 	},
  	 	 	 	"3": {
- 	 	 	 	 	"trans": "Odemkněte profilový obrázek přizpůsobení",
+ 	 	 	 	 	"trans": "Odemknnout přizpůsobení profilových obázků",
  	 	 	 	 	"eng": "Unlock profile picture customization"
  	 	 	 	},
  	 	 	 	"4": {
- 	 	 	 	 	"trans": "Staňte se kybernetickým bramborem",
+ 	 	 	 	 	"trans": "Staňte se Kybernetickým bramborem",
  	 	 	 	 	"eng": "Become a Cybernetic Potato"
  	 	 	 	},
  	 	 	 	"5": {
- 	 	 	 	 	"trans": "Bramborový chat rám (s animací)",
+ 	 	 	 	 	"trans": "Bramborový rámeček chatu (s animací)",
  	 	 	 	 	"eng": "Potato chat frame (with animation)"
  	 	 	 	},
  	 	 	 	"6": {
- 	 	 	 	 	"trans": "Bramborový zarámovaný profil (s animací)",
+ 	 	 	 	 	"trans": "Bramborový rámeček profilu (s animací)",
  	 	 	 	 	"eng": "Potato Framed Profile (with animation)"
  	 	 	 	},
  	 	 	 	"7": {
@@ -2511,19 +2511,19 @@
  	 	 	 	 	"eng": "Barcode decoration on profile"
  	 	 	 	},
  	 	 	 	"9": {
- 	 	 	 	 	"trans": "Přizpůsobit hang motto",
+ 	 	 	 	 	"trans": "Upravit Gang motto",
  	 	 	 	 	"eng": "Customize gang motto"
  	 	 	 	},
  	 	 	 	"10": {
- 	 	 	 	 	"trans": "Přizpůsobit gangový obraz",
+ 	 	 	 	 	"trans": "Upravit obrázek Gangu",
  	 	 	 	 	"eng": "Customize gang image"
  	 	 	 	},
  	 	 	 	"11": {
- 	 	 	 	 	"trans": "Více přichází v budoucnu",
+ 	 	 	 	 	"trans": "Více v budoucnu s další aktualizací",
  	 	 	 	 	"eng": "More coming in future update"
  	 	 	 	},
  	 	 	 	"12": {
- 	 	 	 	 	"trans": "Zmínil jsem se, že bys mohl být kybernetický brambor?",
+ 	 	 	 	 	"trans": "Zmínil jsem se, že bys mohl být Kybernetický brambor?",
  	 	 	 	 	"eng": "Did I mention you could be a Cybernetic Potato?"
  	 	 	 	}
  	 	 	}
@@ -2539,88 +2539,88 @@
  	 	 	"eng": "special weapon"
  	 	},
  	 	"tertiaryWeapon": {
- 	 	 	"trans": "destruktivní zbraň",
+ 	 	 	"trans": "Destruktivní zbraň",
  	 	 	"eng": "destructive weapon"
  	 	},
  	 	"helmet": {
- 	 	 	"trans": "helma",
+ 	 	 	"trans": "Helma",
  	 	 	"eng": "helmet"
  	 	},
  	 	"upperArmor": {
- 	 	 	"trans": "horní pancor",
+ 	 	 	"trans": "Horní část brnení",
  	 	 	"eng": "upper armor"
  	 	},
  	 	"lowerArmor": {
- 	 	 	"trans": "Dolní brnění",
+ 	 	 	"trans": "Dolní část brnění",
  	 	 	"eng": "lower armor"
  	 	},
  	 	"boots": {
- 	 	 	"trans": "boty",
+ 	 	 	"trans": "Boty",
  	 	 	"eng": "boots"
  	 	},
  	 	"backpack": {
- 	 	 	"trans": "batoh",
+ 	 	 	"trans": "Batoh",
  	 	 	"eng": "backpack"
  	 	}
  	},
  	"item": {
  	 	"aiCore": {
  	 	 	"name": {
- 	 	 	 	"trans": "Máte jádro",
+ 	 	 	 	"trans": "AI jádro",
  	 	 	 	"eng": "AI Core"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Komerčně používaná jednotka neuronového zpracování (NPU). Dodává se s obecným účelem AI. \r\n         Můžete to použít k nasazení zemědělské boty do dungeonu pro vás.",
+ 	 	 	 	"trans": "Komerčně používaná jednotka Neuronového Zpracování (NPU). Obecně používaná v AI. \r\n         Možno použít k nasazení Bota který za Vás bude farmit v Dungeonu.",
  	 	 	 	"eng": "Commercially used Neural Processing Unit (NPU). Comes with general purpose AI. \r\n        You can use this to deploy a farming bot to dungeon for you."
  	 	 	}
  	 	},
  	 	"ammo1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Energetická buňka",
+ 	 	 	 	"trans": "Energetický článek",
  	 	 	 	"eng": "Energy Cell"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Přenosné energetické paměťové zařízení, může být použit jako spotřební munice pro vaše speciální zbraně",
+ 	 	 	 	"trans": "Přenosné energetické úložiště, může být použit jako munice pro Speciální zbraně",
  	 	 	 	"eng": "Portable energy storage device, it can be used as consumable ammo for your Special Weapons"
  	 	 	}
  	 	},
  	 	"ammo2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Chitele proti vězení",
+ 	 	 	 	"trans": "Článek Antihmoty",
  	 	 	 	"eng": "Anti Matter Charge"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "High-tech, miniaturizované, jednorázové použití, generátor antihmoty energie. \r\n         Tato položka vytváří enormní množství energie. Můžete to použít jako munice pro destruktivní zbraň",
+ 	 	 	 	"trans": "Minuaturní High-tech generátor energie z Antihmoty pro jednorázové použití. \r\n         Tato položka vytváří enormní množství energie. Můžete to použít jako munici pro Destruktivní zbraň",
  	 	 	 	"eng": "High-tech, miniaturized, one-time use, antimatter energy generator. \r\n        This item produces enormous amounts of power. You can use this as ammunition for your destructive weapon. "
  	 	 	}
  	 	},
  	 	"ammoTech1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Střelivo Tech Parts",
+ 	 	 	 	"trans": "Tech-části Munice",
  	 	 	 	"eng": "Ammunition tech parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Munkované tech díly, které mohou být běžně nalezeny oběh černého trhu. \r\n         Pokud si můžete pochopit, jak chcete použít k řemeslné muničním střelbě.",
+ 	 	 	 	"trans": "Části munice, které běžně naleznete v oběh černého trhu. \r\n         Možné použít pro výrobu munice, pokud víte jak.",
  	 	 	 	"eng": "Ammunition tech parts, These can be commonly found circulating the black market. \r\n        You can use these to craft ammunition if you understand how."
  	 	 	}
  	 	},
  	 	"ammoTech2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Vojenské muniční techniky",
+ 	 	 	 	"trans": "Vojenské Tech-části munice",
  	 	 	 	"eng": "Military ammunition tech parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Vojenské stupeň střeliva tech díly, běžně používané vládou, vojenskými a elitami, mohou být použity k řemeslnému do použitelného munice, pokud máte know-how",
+ 	 	 	 	"trans": "Vojenské stupeň střeliva, běžně používané vládou, vojenskem a elitami, mohou být použity k výrobě použitelné munice, pokud máte know-how",
  	 	 	 	"eng": "Military grade ammunition tech parts, commonly used by government, military and the elites,can be used to craft into usable Ammo if you have the know-how"
  	 	 	}
  	 	},
  	 	"techScrap": {
  	 	 	"name": {
- 	 	 	 	"trans": "Techný šrot",
+ 	 	 	 	"trans": "Tech-šrot",
  	 	 	 	"eng": "Tech Scrap"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Technologický šrot z rozebraných zařízení, to může být zpětně navrženo pro získání tisku XP. \r\n         Můžete provádět reverzní inženýrství v rozbočovači úlohy.",
+ 	 	 	 	"trans": "Technologický šrot z rozebraného vybavení, může být zpětně použito pro získání XP pro Tisk. \r\n         Můžete provádět reverzní inženýrství v Job Hub.",
  	 	 	 	"eng": "Technology scrap from disassembled equipment, this can be reverse engineered to gain printing xp. \r\n        You can perform reverse engineering in the Job Hub."
  	 	 	}
  	 	},
@@ -2644,271 +2644,271 @@
  	 	},
  	 	"helmet": {
  	 	 	"name": {
- 	 	 	 	"trans": "helma",
+ 	 	 	 	"trans": "Helma",
  	 	 	 	"eng": "helmet"
  	 	 	}
  	 	},
  	 	"upperArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "horní pancor",
+ 	 	 	 	"trans": "Horní část brnění",
  	 	 	 	"eng": "upper armor"
  	 	 	}
  	 	},
  	 	"lowerArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "Dolní brnění",
+ 	 	 	 	"trans": "Dolní část brnění",
  	 	 	 	"eng": "lower armor"
  	 	 	}
  	 	},
  	 	"boots": {
  	 	 	"name": {
- 	 	 	 	"trans": "boty",
+ 	 	 	 	"trans": "Boty",
  	 	 	 	"eng": "boots"
  	 	 	}
  	 	},
  	 	"upgradeModule": {
  	 	 	"name": {
- 	 	 	 	"trans": "modul upgrade",
+ 	 	 	 	"trans": "Modul vylepšení",
  	 	 	 	"eng": "upgrade module"
  	 	 	}
  	 	},
  	 	"healing1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bolest",
+ 	 	 	 	"trans": "Lékárnička",
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Máte bolest hlavy? Použijte bolest pryč ™ pro zmírnění bolesti!",
+ 	 	 	 	"trans": "Bolí Vás něco? Použijte Lékárničku™ pro vyléčení zranění!",
  	 	 	 	"eng": "Do you have headache? Use Pain Away™ to relieve your pain!"
  	 	 	}
  	 	},
  	 	"healing2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Degradovaný nano opravný bot",
+ 	 	 	 	"trans": "Degradovaný Nano-Opravář-Bot",
  	 	 	 	"eng": "Degraded Nano Repair Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Staré nano opravné boty, obvykle používané k opravě malých technologických zařízení.",
+ 	 	 	 	"trans": "Starý Nano-Opravář-Bot, obvykle se používá k vylščení malých Tech zařízení.",
  	 	 	 	"eng": "An old nano repair bot, usually used to repair small tech devices."
  	 	 	}
  	 	},
  	 	"healing3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Degradovaný nano zdravotník bot",
+ 	 	 	 	"trans": "Degradovaný Nano-Medic-Bot",
  	 	 	 	"eng": "Degraded Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Old Nano Medic Bot se používá k vyléčení libovolných (* podmínky platí) zranění!",
+ 	 	 	 	"trans": "Starý Nano-Medic-Bot, používá se k vyléčení libovolných (* podmínky platí) zranění!",
  	 	 	 	"eng": "Old nano medic bot is used to cure any (*conditions apply) injury!"
  	 	 	}
  	 	},
  	 	"healing4": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano Doctor Bot",
+ 	 	 	 	"trans": "Nano-Medic-Bot",
  	 	 	 	"eng": "Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Injekci jej vyléčit (* podmínky platí) zranění!",
+ 	 	 	 	"trans": "Ijekce co vyléčí jakékoliv (* podmínky platí) zranění!",
  	 	 	 	"eng": "Inject it to cure any(*conditions apply) injury!"
  	 	 	}
  	 	},
  	 	"healing5": {
  	 	 	"name": {
- 	 	 	 	"trans": "Vojenský nano zdravotník bot",
+ 	 	 	 	"trans": "Vojenský Nano-Medic-Bot",
  	 	 	 	"eng": "Military Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Injekční nano stroje, které jsou standardní vydání pro vojenské použití. Jsou schopni opravit zranění v boji.",
+ 	 	 	 	"trans": "Injekce s Nano-Boty, standardní vybavení pro vojenské použití. Disponuje schopností uzdravit zranění v boji.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They are capable of patching injuries while in combat."
  	 	 	}
  	 	},
  	 	"healing6": {
  	 	 	"name": {
- 	 	 	 	"trans": "Advanced Nano Medic Bot",
+ 	 	 	 	"trans": "Pokročilý Nano-Medic-Bot",
  	 	 	 	"eng": "Advanced Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Injekční nano stroje, které jsou standardní vydání pro vojenské použití. Jsou schopni záplatovat zranění v boji.",
+ 	 	 	 	"trans": "Injekce s Nano-Boty, standartní vybavení pro vojenské použití. Disponuje schopností uzdarvit zranění v boji.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
  	 	"healing7": {
  	 	 	"name": {
- 	 	 	 	"trans": "Vysoce kvalitní nano zdravotník bot",
+ 	 	 	 	"trans": "Vysoce kvalitní Nano-Medic-Bot",
  	 	 	 	"eng": "High Quality Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Injekční nano stroje, které jsou standardní vydání pro vojenské použití. Jsou schopni záplatovat zranění v boji.",
+ 	 	 	 	"trans": "Injekce s Nano-Boty, standartní vybavení pro vojenské použití. Disponuje schopností uzdarvit zranění v boji.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
  	 	"healing8": {
  	 	 	"name": {
- 	 	 	 	"trans": "Vzácný nano doktor bot",
+ 	 	 	 	"trans": "Vzácný Nano-Medic-Bot",
  	 	 	 	"eng": "Rare Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Injekční nano stroje, které jsou standardní vydání pro vojenské použití. Jsou schopni záplatovat zranění v boji.",
+ 	 	 	 	"trans": "Injekce s Nano-Boty, standartní vybavení pro vojenské použití. Disponuje schopností uzdarvit zranění v boji.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
  	 	"healing9": {
  	 	 	"name": {
- 	 	 	 	"trans": "Legendární nano zdravotník bot",
+ 	 	 	 	"trans": "Legendární Nano-Medic-Bot",
  	 	 	 	"eng": "Legendary Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Injikovatelné nano stroje, které jsou pro předběžné vojenské použití, schopné opravit zranění v bojové situaci",
+ 	 	 	 	"trans": "Injekce s Nano-Boty, pokročilé vybavení pro vojenské použití. Disponuje schopností uzdarvit zranění v boji.",
  	 	 	 	"eng": "injectable nano machines that is for advance military use, capable of patching injury in combat situation"
  	 	 	}
  	 	},
  	 	"healing10": {
  	 	 	"name": {
- 	 	 	 	"trans": "Epic nano zdravotník bot",
+ 	 	 	 	"trans": "Epic Nano-Medic-Bot",
  	 	 	 	"eng": "Epic Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Injikovatelné nano stroje, které jsou pro předběžné vojenské použití, schopné opravit zranění v bojové situaci",
+ 	 	 	 	"trans": "Injekce s Nano-Boty, pokročilé vybavení pro vojenské použití. Disponuje schopností uzdarvit zranění v boji.",
  	 	 	 	"eng": "injectable nano machines that is for advance military use, capable of patching injury in combat situation"
  	 	 	}
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bolest pryč sprej",
+ 	 	 	 	"trans": "Sprej-Lékarnička™",
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Vy a vaše přátelé mají oba bolesti hlavy? Použijte bolest pryč spray ™ pro úlevu vaší bolesti!",
+ 	 	 	 	"trans": "Vás i vaše přátele něco bolí? Použijte Sprej-Lékárničku™ pro úlevu od bolesti!",
  	 	 	 	"eng": "Do you and your friends both have headaches? Use Pain Away Spray™ to relief your pain!"
  	 	 	}
  	 	},
  	 	"healingArea2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Degradovaná oprava Drone",
+ 	 	 	 	"trans": "Degradovaný Rep-Drone",
  	 	 	 	"eng": "Degraded Repair drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Staré opravy Drone, schopný opravit nebo léčit poblíž hráčů",
+ 	 	 	 	"trans": "Starý Rep-Dron, schopný opravit nebo léčit hráče, kteří jsou poblíž.",
  	 	 	 	"eng": "Old repair drone, capable of repairing or heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Degradovaný Nano Medic Drone",
+ 	 	 	 	"trans": "Degradovaný Nano-Medic-Drone",
  	 	 	 	"eng": "Degraded nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Starý nano drone, schopný expedovat tisíce nano strojů, aby léčit blízké hráče",
+ 	 	 	 	"trans": "Starý Nano-Medic-Dron, schopný vyslat tisíce nano strojů, aby léčil hráče, kteří jsou poblíž.",
  	 	 	 	"eng": "Old nano drone, capable of dispatching thousands of nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea4": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano Doctor Drone",
+ 	 	 	 	"trans": "Nano-Medic-Drone",
  	 	 	 	"eng": "Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Schopen expedovat tisíce nano strojů k léčení poblíž hráčů",
+ 	 	 	 	"trans": "Schopen vyslat tisíce nano strojů k léčení hráčů, kteří jsou poblíž.",
  	 	 	 	"eng": "capable of dispatching thousands of nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea5": {
  	 	 	"name": {
- 	 	 	 	"trans": "Vojenský nano zdravotník drone",
+ 	 	 	 	"trans": "Vojenský Nano-Medic-Drone",
  	 	 	 	"eng": "Military Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Schopen expedovat tisíce vojenských nano strojů k léčení blízkých hráčů",
+ 	 	 	 	"trans": "Schopen vyslat tisíce vojenských nano strojů k léčení hráčů, kteří jsou poblíž.",
  	 	 	 	"eng": "capable of dispatching thousands of military nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea6": {
  	 	 	"name": {
- 	 	 	 	"trans": "Advance Nano Medic Drone",
+ 	 	 	 	"trans": "Pokročilý Nano-Medic-Drone",
  	 	 	 	"eng": "Advance Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Schopen expedovat tisíce pokročilých nano strojů k léčení blízkých hráčů",
+ 	 	 	 	"trans": "Schopen vyslat tisíce pokročilých nano strojů k léčení hráčů, kteří jsou poblíž.",
  	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea7": {
  	 	 	"name": {
- 	 	 	 	"trans": "Vysoce kvalitní Nano Medic Drone",
+ 	 	 	 	"trans": "Vysoce kvalitní Nano-Medic-Drone",
  	 	 	 	"eng": "High Quality Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Schopen expedovat tisíce pokročilých nano strojů k léčení blízkých hráčů",
+ 	 	 	 	"trans": "Schopen vyslat tisíce pokročilých nano strojů k léčení hráčů, kteří jsou poblíž.",
  	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea8": {
  	 	 	"name": {
- 	 	 	 	"trans": "Vzácný nano doktor drone",
+ 	 	 	 	"trans": "Vzácný Nano-Medic-Drone",
  	 	 	 	"eng": "Rare Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Schopen expedovat tisíce pokročilých nano strojů k léčení blízkých hráčů",
+ 	 	 	 	"trans": "Schopen vyslat tisíce pokročilých nano strojů k léčení hráčů, kteří jsou poblíž.",
  	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea9": {
  	 	 	"name": {
- 	 	 	 	"trans": "Legendární Nano Medic Drone",
+ 	 	 	 	"trans": "Legendární Nano-Medic-Drone",
  	 	 	 	"eng": "Legendary Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Schopen expedovat tisíce pokročilých nano strojů k léčení blízkých hráčů",
+ 	 	 	 	"trans": "Schopen vyslat tisíce pokročilých nano strojů k léčení hráčů, kteří jsou poblíž.",
  	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea10": {
  	 	 	"name": {
- 	 	 	 	"trans": "Epic Nano Medic Drone",
+ 	 	 	 	"trans": "Epický Nano-Medic-Drone",
  	 	 	 	"eng": "Epic Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Schopen expedovat tisíce pokročilých nano strojů k léčení blízkých hráčů",
+ 	 	 	 	"trans": "Schopen vyslat tisíce pokročilých nano strojů k léčení hráčů, kteří jsou poblíž.",
  	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"medicalTechParts": {
  	 	 	"name": {
- 	 	 	 	"trans": "Medical Tech Parts",
+ 	 	 	 	"trans": "Medical Tech-části",
  	 	 	 	"eng": "Medical Tech Parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Bity a kousky použité lékařské tech. To může být použito k řemeslným léčením, pokud pochopíte, jak",
+ 	 	 	 	"trans": "Části použitého Med-Tech vybavení. Možné využít k výrobě Lékárniček, pokud víte jak.",
  	 	 	 	"eng": "Bits and pieces of used medical tech. This can be used to craft healing items if you understand how"
  	 	 	}
  	 	},
  	 	"expMemory": {
  	 	 	"name": {
- 	 	 	 	"trans": "Zažijte paměť",
+ 	 	 	 	"trans": "Paměťová karta",
  	 	 	 	"eng": "Experience Memory"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Memory Bank obsahuje něčí paměť. Pokud jste použili, můžete získat zkušenosti z tohoto",
+ 	 	 	 	"trans": "Paměťová karta, která obsahuje něčí paměť. Při použití, můžete získat zkušenosti.",
  	 	 	 	"eng": "Memory bank contains someone's memory. If used you may gain experience from this"
  	 	 	}
  	 	},
  	 	"hashProcessor": {
  	 	 	"name": {
- 	 	 	 	"trans": "Hash procesor",
+ 	 	 	 	"trans": "Rozsekaný procesor",
  	 	 	 	"eng": "Hash Processor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Lze použít jako vyhrazený hardware pro bitcoinské těžby, \r\n         Nicméně kvůli přetaktování, procesor je snadno spálený, \r\n         Můžete použít k mé bitcoin v [Job Hub]",
+ 	 	 	 	"trans": "Hardware použitelný pro těžbu Bitcoinů, \r\n         Nicméně kvůli přetaktování, se může procesor snadno spálit, \r\n         Můžete použít k těžbě Bitcoinů v [Job Hub]",
  	 	 	 	"eng": "Can be used as a dedicated hardware for BitCoin mining, \r\n        however due to overclocking, the processor is easily burntout,\r\n        You may use this to mine BitCoin at [JOB HUB]"
  	 	 	}
  	 	},
  	 	"afkAcceleration": {
  	 	 	"name": {
- 	 	 	 	"trans": "Synaptický vysílač zrychlení",
+ 	 	 	 	"trans": "Synaptický urychlovací vysílač",
  	 	 	 	"eng": "Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Vysílání vykořisťuje všem kyberneticky připojeným uživatelům, přetaktováním jejich synaptických procesorů tak umožňují super-lidskou duševní schopnost na krátkou dobu. \r\n        \r\n         Při použití, dává globální buff všem hráčům online, což jim umožňuje dokončit AFK Úkoly v + 5% rychlostí po dobu 10 minut (stohovatelné)",
+ 	 	 	 	"trans": "Vysílání umožňuje všem kyberneticky připojeným uživatelům, přetaktování jejich synaptických procesorů a tím poskytne super-lidskou duševní schopnost na krátkou dobu. \r\n        \r\n         Při použití, dává Globalní buff všem hráčům online, což jim umožňuje dokončit AFK Úkoly - + 5% rychlosti po dobu 10 minut (možno prodloužit)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclocking their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +5% speed for 10 minutes (stackable)"
  	 	 	}
  	 	},
@@ -2918,7 +2918,7 @@
  	 	 	 	"eng": "Rare Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Vysílání vykořisťuje všem kyberneticky připojeným uživatelům, přetaktováním jejich synaptických procesorů tak umožňují super-lidskou duševní schopnost na krátkou dobu. \r\n        \r\n         Při použití, dává globální buff všem hráčům online, což jim umožňuje dokončit Úkoly AFK v + 40% rychlost po dobu 20 minut (stohovatelné)",
+ 	 	 	 	"trans": "Vysílání vykořisťuje všem kyberneticky připojeným uživatelům, přetaktováním jejich synaptických procesorů tak umožňují super-lidskou duševní schopnost na krátkou dobu. \r\n        \r\n         Při použití, dává globální buff všem hráčům online, což jim umožňuje dokončit Úkoly AFK v + 40% rychlosti po dobu 20 minut (možno prodloužit)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclocking their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +40% speed for 20 minutes (stackable)"
  	 	 	}
  	 	},
